@@ -3,19 +3,20 @@ Conceptos de Futbol que considero principales y quiero plasmar en texto.
 
 ## INTRODUCCION
 Ya que la oratoria no es mi fuerte, me decidí por plasmar las ideas en texto. Y quiero comenzar por las bases y los conceptos.
-Jugar un torneo no es sólo ir a jugar con amigos, y hacer lo que nos sale, lo que siempre hicimos o lo que nos pinta...
-Para competir en un torneo, los jugadores tienen q hacer lo necesario para que el equipo funcione, hay q tomárselo en serio, concentrarse y tener comportamiento individual y conjunto para el buen funcionamiento del equipo, ésto requiere tener mentalidad de progreso, disposición para recibir y seguir indicaciones y dedicación por el equipo. Una vez adoptada esta actitud se llega a un nivel supremo cuando se logra tomar decisiones teniendo en cuenta la posición o ubicación de los compañeros.
+Para competir en un torneo, los jugadores tienen q hacer lo necesario para que el equipo funcione, deben tomárselo en serio, concentrarse y tener comportamiento individual y conjunto para el buen funcionamiento del equipo, ésto requiere tener mentalidad de progreso, disposición para recibir y seguir indicaciones, y dedicación por el equipo. Una vez adoptada esta actitud se llega a un nivel supremo cuando se logra tomar decisiones teniendo en cuenta la posición o ubicación de los compañeros.
 Ésto es el fútbol a nivel competitivo y eso no lo hace menos divertido, también se puede encontrar diversión en ello, no hay mejor satisfacción que sentir que formas parte de un equipo que trabaja bien y se lo toma en serio, mas allá de los resultados obtenidos, porque eso te marca la pauta de que crece el espíritu del equipo, se juega más cómodo y los resultados se darán solos.
 
-> Les pido que tengan en cuenta muy en serio estas palabras y las tomen a modo de estudio y aprendizaje, ya que no nos podemos juntar a entrenar o practicar en la semana, pero les aseguro que si siguen estas indicaciones y adoptan esta actitud, a medida que salgan algunas cosas se van a sentir mucho más cómodos en la cancha.
+Jugar un torneo no es sólo ir a jugar con amigos, y hacer lo que nos sale, lo que siempre hicimos o lo que nos pinta...
+
+> Les pido que tengan en cuenta muy en serio estas palabras y las tomen a modo de estudio y aprendizaje, ya que no es posible juntarse a entrenar o practicar en la semana, pero les aseguro que si siguen estas indicaciones y adoptan esta actitud, a medida que salgan algunas cosas se van a sentir mucho más cómodos en la cancha.
 ---
 
 ## IDEA DE JUEGO
-La idea es tener un equipo equilibrado y ordenado, ya que por más deficiencias técnicas o físicas que podamos tener, si el equipo juega ordenado se le puede "hacer partido" a cualquiera. Se buscará usar la estrategia, la táctica y las capacidades grupales e individuales de los jugadores para sacar provecho en ataque y en defensa. Me gustaría que tengamos un arquero sólido, un cinco que se coma la cancha y un 9 que pueda resolver sólo.
+La idea es tener un equipo equilibrado y ordenado, ya que por más deficiencias técnicas o físicas que pueda tener un equipo, si se juega ordenado se le puede "hacer partido" a cualquiera. Se buscará usar la estrategia, la táctica y las capacidades grupales e individuales de los jugadores para sacar provecho en ataque y en defensa. Me gustaría que el equipo tenga un arquero sólido, un cinco que se coma la cancha y un 9 que pueda resolver sólo.
 
 ### A que jugamos?
-Trataremos de salir jugando por abajo porque ésto permite estirar al equipo rival y aprovechar esos espacios. Pero NO siempre hay q salir jugando por abajo, ya que puede q nos compliquemos sólos con pases entre los defensores o por la presión del rival. (Se irá decidiendo sobre la marcha)
-Si sacamos largo HAY QUE IR A DISPUTAR LA PELOTA, y sobre todo, ir a la segunda jugada (esto significa acercarse a la zona donde se disputa la pelota, para capturar un rebote, un rechazo o un pase de un compañero).
+Trataremos de salir jugando por abajo porque ésto permite estirar al equipo rival y aprovechar esos espacios. Pero NO siempre hay q salir jugando por abajo, ya que puede q nos compliquemos sólos con pases entre los defensores o por la presión del rival. (Se irá decidiendo sobre la marcha).
+Si sacamos largo *HAY QUE IR A DISPUTAR LA PELOTA*, y sobre todo, ir a la segunda jugada (esto significa acercarse a la zona donde se disputa la pelota, para capturar un rebote, un rechazo o un pase de un compañero).
 
 ### Con la pelota:
 Buscaremos atacar haciendo cambios de ritmo en mitad o ¾ de cancha rival buscando profundizar con **PAREDES**, muy importante hacer **paredes**, y/o abriendo la pelota hacia las bandas para profundizar por afuera. Se puede utilizar como recurso el pase largo (si es en diagonal, mejor!) pero no será primordial, ya que nuestra principal arma serán las _PAREDES_.
@@ -25,6 +26,7 @@ Cuando salimos jugando por abajo, si la pelota le llega al lateral y éste recib
 
 ### Sin la pelota:
 Implementaremos una presión intermedia ya que permite cerrarse a medias y esperar el error rival. También ayuda a _no ahogarse_ ejerciendo presión alta ni obligar al rival al pelotazo, ya que después hay que lidiar con esos pelotazos y defenderlos. Sería ideal ejercer una _presión tras pérdida_ rápida para volver a recuperar la pelota (6 segundos de presión máxima y coordinada luego de perder la pelota).
+---
 
 ## ATAQUE
 Muchas veces no se puede atacar por el centro porque la zona está muy poblada o porque no salen los pases con la precisión y velocidad necesaria, entonces usamos la opción de atacar por las bandas que suele ser más fácil profundizar o desequilibrar ya que son las zonas menos pobladas y se requiere menos precisión.
@@ -32,7 +34,7 @@ Muchas veces no se puede atacar por el centro porque la zona está muy poblada o
 ### Al atacar por LAS BANDAS.
 Hay que buscar hacerle llegar la pelota a los extremos en posición favorable o buscar el desdoblamiento de los volantes con los extremos, o los laterales con los volantes.
 
-+ Los extremos: cuando reciben la pelota tienen q ir para adelante, encarar al defensor, desbordarlos por fuera o por dentro, o tocar y picar al espacio, pero casi siempre deben ir para adelante y jugar el 1 vs. 1 contra el lateral rival para profundizar. También cuando se dé la posibilidad, pueden buscar el desdoblamiento del volante que pasa en velocidad facilitando el avance. Ésto desgasta mucho a los defensores rivales e inclina la cancha a favor.
++ Los extremos: cuando reciben la pelota tienen q ir para adelante, encarar al defensor, desbordarlos por fuera o por dentro, o tocar y picar al espacio, pero casi siempre deben ir para adelante y jugar el 1 vs. 1 contra el lateral rival para profundizar. También cuando se dé la posibilidad, pueden buscar el desdoblamiento del volante que pasa en velocidad facilitando el avance. Todo ésto desgasta mucho a los defensores rivales e inclina la cancha a favor.
 Al desbordar con éxito al defensor se produce un desequilibrio que se puede aprovechar:
   - Dando un pase al medio para los puntas.
   - Llegando al fondo y tirando el centro (al primer palo si llega un compañero, hacia atrás, o pasado al segundo palo; al medio del área no, xq va a estar muy poblada).
