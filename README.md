@@ -65,11 +65,13 @@ Hay que buscar **hacer paredes o pases rápidos a 1 o 2 toques** cambiando de ri
 
 - Los puntas: Deben hacer diagonales hacia adelante al espacio generando la opción de un pase y cuidando el offside, para ésto deberán dar unos pasos hacia atrás antes de buscar una diagonal. Si descienden a recibir no deben hacerlo en línea recta (vertical), sino en una línea diagonal, ésto les permite recibir perfilados y con ventaja posicional o aguantar la pelota para descargar con un compañero e ir a buscar una pared.
 
-> `No va a salir bien las primeras veces, pero hay que intentarlo. No importa si sale mal la ejecución, pero hay que intentar el concepto y la idea de juego porque estoy convencido que de esa forma se logran buenos resultados.`
+Una jugada muy simple de ataque y que puede generar mucho peligro es cuando un lateral o un volante da un pase hacia atrás (se apoya) en un volante central, y éste de primera mete un pase curvo detrás de la línea de defensores para que pique un punta.
+
+> `Todos estos conceptos no van a salir bien las primeras veces, pero hay que intentarlo. No importa si sale mal la ejecución, pero hay que intentar aplicar el concepto y la idea de juego porque estoy convencido que de esa forma se logran buenos resultados.`
 
 ---
 
-## DEFENSA:
+## DEFENSA
 El equipo debe bascular para el lado en que se encuentra la pelota.
 
 - Los delanteros: la forma de marcar debe ser cerrando líneas de pase, sobre todo por el centro. Porque los pases que adquieren profundidad por el centro generan peligro.
@@ -83,7 +85,7 @@ Los laterales y volantes deben **amagar para marcar**, sí, *AMAGAR PARA MARCAR*
 
 ---
 
-## TENENCIA DE PELOTA:
+## TENENCIA DE PELOTA
 La tenencia además de posesión, da la posibilidad de descanzar con la pelota y cansar al rival mientras nos marca. Lo ideal será buscar un buen equilibrio entre tenencia práctica y ataque, considerando el cansancio general o el nivel de ahogo.
 
 Volantes centrales (5): El juego pasará mayormente por ellos y serán los encargados de distribuir la pelota. Para ésto deben jugar simple minimizando errores, rotar el juego cuando la zona se encuentra muy cargada o poblada.
@@ -92,9 +94,8 @@ Su segunda responsabilidad es ordenar al equipo ya que su posición dentro de la
 
 Los laterales: deben recibir perfilados con la cola hacia la raya y recibiendo la pelota con la cancha de frente para armar juego.
 
-Una jugada muy simple de ataque y que puede generar mucho peligro es cuando un lateral o un volante da un pase hacia atrás (se apoya) en un volante central, y éste de primera mete un pase curvo detrás de la línea de defensores para que pique un punta.
-
 > `Es primordial que todos entiendan que los pases horizontales favorecen la presión del rival (sobre todo entre centrales o volantes centrales) y además causa errores no forzados.`
 
 > `Por último, y no menos importante... El único q puede parar la pelota con la suela, es aquel jugador q reciba CÓMODO de espalda, el resto, en cancha de once, se para la pelota con el borde interno del pie (como hace Messi).`
+
 ---
