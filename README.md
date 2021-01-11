@@ -4,11 +4,12 @@ Elegí plasmar algunas ideas en texto ya que ayudan a ordenarse, clarificar y te
 ## INTRODUCCION
 Quiero comenzar por las bases y los conceptos y luego ir profundizando en los detalles de cada puesto.
 Para competir en un torneo, los jugadores tienen que hacer lo necesario para que el equipo funcione, deben tomárselo en serio, concentrarse y tener comportamiento individual y conjunto para el buen funcionamiento del equipo, ésto requiere tener mentalidad de progreso, disposición para recibir y seguir indicaciones, y dedicación por el equipo. Una vez adoptada esta actitud se llega a un nivel supremo cuando se logra tomar decisiones teniendo en cuenta la posición o ubicación de los compañeros.
-Ésto es el fútbol a nivel competitivo y eso no lo hace menos divertido, también se puede encontrar diversión en ello, no hay mejor satisfacción que sentir que formas parte de un equipo que trabaja bien y se lo toma en serio, mas allá de los resultados obtenidos, porque eso te marca la pauta de que crece el espíritu del equipo, se juega más cómodo y los resultados se darán solos.
+Ésto es el fútbol a nivel competitivo y eso no lo hace menos divertido, también se puede encontrar diversión y sobretodo satusfacción en ello, no hay mejor satisfacción que sentir que formas parte de un equipo que trabaja bien y se lo toma en serio, y que sigue un sistema de juego y aolica un criterio futbolístico compartido; mas allá de los resultados obtenidos, porque eso te marca la pauta de que crece el espíritu del equipo, se juega más cómodo y los resultados se darán solos.
 
 Jugar un torneo no es sólo ir a jugar con amigos, y hacer lo que nos sale, lo que siempre hicimos o lo que nos pinta...
 
 > Les pido que tengan en cuenta muy en serio estas palabras y las tomen a modo de estudio y aprendizaje, ya que no es posible juntarse a entrenar o practicar en la semana, pero les aseguro que si siguen estas indicaciones y adoptan esta actitud, a medida que salgan algunas cosas se van a sentir mucho más cómodos en la cancha.
+
 ---
 
 ## IDEA DE JUEGO
@@ -60,12 +61,13 @@ Si se ataca por su lado puede:
 > Al desbordar y tirar el centro atrás, el que viene a la carrera a rematar debe pegarle al arco "a colocar", ya que tiende a elevarse mucho la pelota y sino esas jugadas terminan todas en el alambrado o en la popular.
 
 ### Al atacar por el CENTRO.
-Hay que buscar *hacer paredes o pases rápidos a 1 o 2 toques* cambiando de ritmo para avanzar entre los rivales, porque hay mucha gente en esa zona y la mayoría dedicados a marcar. Hay que buscar ubicarse en "distintas líneas" para obtener profundidad con los pases e intentar aprovechar los triangulos que se forman entre nuestros jugadores.
+Hay que buscar **hacer paredes o pases rápidos a 1 o 2 toques** cambiando de ritmo para avanzar entre los rivales, porque hay mucha gente en esa zona y la mayoría dedicados a marcar. Para poder progresar por esta zona es importante ubicarse en "distintas líneas" para obtener profundidad con los pases e intentar aprovechar los triangulos que se forman entre nuestros jugadores.
 
 - Los puntas: Deben hacer diagonales hacia adelante al espacio generando la opción de un pase y cuidando el offside, para ésto deberán dar unos pasos hacia atrás antes de buscar una diagonal. Si descienden a recibir no deben hacerlo en línea recta (vertical), sino en una línea diagonal, ésto les permite recibir perfilados y con ventaja posicional o aguantar la pelota para descargar con un compañero e ir a buscar una pared.
 
 > `No va a salir bien las primeras veces, pero hay que intentarlo. No importa si sale mal la ejecución, pero hay que intentar el concepto y la idea de juego porque estoy convencido que de esa forma se logran buenos resultados.`
------
+
+---
 
 ## DEFENSA:
 El equipo debe bascular para el lado en que se encuentra la pelota.
@@ -78,10 +80,13 @@ Los laterales y volantes deben **amagar para marcar**, sí, *AMAGAR PARA MARCAR*
 
 
 > Trataremos de practicar la basculación y la "formación de batalla" antes de los partidos para ir incorporándola con práctica.
+
 ---
 
 ## TENENCIA DE PELOTA:
-Volantes centrales (5): deben jugar simple minimizando errores, rotar el juego cuando la zona se encuentra muy cargada o poblada.
+La tenencia además de posesión, da la posibilidad de descanzar con la pelota y cansar al rival mientras nos marca. Lo ideal será buscar un buen equilibrio entre tenencia práctica y ataque, considerando el cansancio general o el nivel de ahogo.
+
+Volantes centrales (5): El juego pasará mayormente por ellos y serán los encargados de distribuir la pelota. Para ésto deben jugar simple minimizando errores, rotar el juego cuando la zona se encuentra muy cargada o poblada.
 Su principal responsabilidad es distribuir el juego hacia los lados de la cancha sobre todo a los laterales o volantes y colaborar con la marca en mitad de cancha y delante de los defensores.
 Su segunda responsabilidad es ordenar al equipo ya que su posición dentro de la cancha permite manejar una perspectiva privilegiada para detectar huecos en la formación del equipo o compañeros desordenados.
 
