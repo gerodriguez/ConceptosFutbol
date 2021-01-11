@@ -1,9 +1,9 @@
 # Conceptos de Futbol
-Conceptos de Futbol que considero principales y quiero plasmar en texto.
+Elegí plasmar algunas ideas en texto ya que ayudan a ordenarse, clarificar y tener como ayuda memoria.
 
 ## INTRODUCCION
-Ya que la oratoria no es mi fuerte, me decidí por plasmar las ideas en texto. Y quiero comenzar por las bases y los conceptos.
-Para competir en un torneo, los jugadores tienen q hacer lo necesario para que el equipo funcione, deben tomárselo en serio, concentrarse y tener comportamiento individual y conjunto para el buen funcionamiento del equipo, ésto requiere tener mentalidad de progreso, disposición para recibir y seguir indicaciones, y dedicación por el equipo. Una vez adoptada esta actitud se llega a un nivel supremo cuando se logra tomar decisiones teniendo en cuenta la posición o ubicación de los compañeros.
+Quiero comenzar por las bases y los conceptos y luego ir profundizando en los detalles de cada puesto.
+Para competir en un torneo, los jugadores tienen que hacer lo necesario para que el equipo funcione, deben tomárselo en serio, concentrarse y tener comportamiento individual y conjunto para el buen funcionamiento del equipo, ésto requiere tener mentalidad de progreso, disposición para recibir y seguir indicaciones, y dedicación por el equipo. Una vez adoptada esta actitud se llega a un nivel supremo cuando se logra tomar decisiones teniendo en cuenta la posición o ubicación de los compañeros.
 Ésto es el fútbol a nivel competitivo y eso no lo hace menos divertido, también se puede encontrar diversión en ello, no hay mejor satisfacción que sentir que formas parte de un equipo que trabaja bien y se lo toma en serio, mas allá de los resultados obtenidos, porque eso te marca la pauta de que crece el espíritu del equipo, se juega más cómodo y los resultados se darán solos.
 
 Jugar un torneo no es sólo ir a jugar con amigos, y hacer lo que nos sale, lo que siempre hicimos o lo que nos pinta...
@@ -26,6 +26,7 @@ Cuando salimos jugando por abajo, si la pelota le llega al lateral y éste recib
 
 ### Sin la pelota:
 Implementaremos una presión intermedia ya que permite cerrarse a medias y esperar el error rival. También ayuda a _no ahogarse_ ejerciendo presión alta ni obligar al rival al pelotazo, ya que después hay que lidiar con esos pelotazos y defenderlos. Sería ideal ejercer una _presión tras pérdida_ rápida para volver a recuperar la pelota (6 segundos de presión máxima y coordinada luego de perder la pelota).
+
 ---
 
 ## ATAQUE
@@ -71,7 +72,7 @@ El equipo debe bascular para el lado en que se encuentra la pelota.
 
 - Los delanteros: la forma de marcar debe ser cerrando líneas de pase, sobre todo por el centro. Porque los pases que adquieren profundidad por el centro generan peligro.
 - Los volantes: toman marca en zona y a cierta distancia del rival, no al hombre.
-- Los defensores: Marcan al hombre y deben asegurarse de que tengamos superioridad numérica. Deben hacer de cuenta que son una _"formación de batalla romana"_ manejando los espacios entre ellos.
+- Los defensores: También marcan en zona, pero toman marca al hombre de cerca y deben asegurarse de que tengamos superioridad numérica. Deben hacer de cuenta que son una _"formación de batalla romana"_ manejando los espacios entre los que defienden.
 Los centrales ante el pelotazo, debe ir uno sólo a disputar la pelota y el otro sobrar por la posible perdida del que fue a disputar.
 Los laterales y volantes deben **amagar para marcar**, sí, *AMAGAR PARA MARCAR*, esto da muchas ventajas y fuerza el error rival casi sin esfuerzo. También usar la raya a favor para arrinconar al rival.
 
