@@ -1,5 +1,6 @@
 # Conceptos de Futbol
 Elegí plasmar algunas ideas en texto ya que ayudan a ordenarse, clarificar y tener como ayuda memoria.
+- [IDEA DE JUEGO](#idea-de-juego)
 
 ## INTRODUCCION
 Quiero comenzar por las bases y los conceptos y luego ir profundizando en los detalles de cada puesto.
@@ -17,7 +18,7 @@ La idea es tener un equipo equilibrado y ordenado, ya que por más deficiencias 
 Me gustaría que el equipo tenga un arquero sólido, laterales que pasen al ataque, un cinco que se coma la cancha, volantes que lleguen al área rival y que hagan relevos, y un 9 que pueda resolver sólo.
 
 ### A que jugamos?
-Buscaremos ser un equipo protagonista que ejerce la tenencia práctica, mantiene un estilo de juego simple que hace circular la pelota con triangulaciones y crea ataques con cambio de ritmo, pudiendo [atacar por el centro](#Al-atacar-por-el-CENTRO:) con paredes o [por las bandas](#Al-atacar-por-las-BANDAS:) con desbordes. Manejar eficientemente la [presión] sobre el rival y montar una [defensa] firme y versátil frente a las diferentes situaciones del partido.
+Buscaremos ser un equipo protagonista que ejerce la tenencia práctica, mantiene un estilo de juego simple que hace circular la pelota con triangulaciones y crea ataques con cambio de ritmo, pudiendo [atacar por el centro](#al-atacar-por-el-centro) con paredes o [por las bandas](#al-atacar-por-las-bandas) con desbordes. Manejar eficientemente la [presión] sobre el rival y montar una [defensa] firme y versátil frente a las diferentes situaciones del partido.
 Trataremos de salir jugando por abajo porque ésto permite estirar al equipo rival y aprovechar esos espacios. Pero NO siempre hay que salir jugando por abajo, ya que puede q nos compliquemos sólos con pases entre los defensores o por la presión del rival. (Se irá decidiendo sobre la marcha).
 Si sacamos largo *HAY QUE IR A DISPUTAR LA PELOTA*, y sobre todo, **ir a la segunda jugada** (esto significa acercarse a la zona donde se disputa la pelota, para capturar un rebote, un rechazo o un pase de un compañero).
 
