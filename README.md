@@ -33,7 +33,7 @@ Implementaremos una presión intermedia ya que permite cerrarse a medias y esper
 ## ATAQUE
 Muchas veces no se puede atacar por el centro porque la zona está muy poblada o porque no salen los pases con la precisión y velocidad necesaria, entonces usamos la opción de atacar por las bandas que suele ser más fácil profundizar o desequilibrar ya que son las zonas menos pobladas y se requiere menos precisión.
 
-### Al atacar por LAS BANDAS.
+### Al atacar por LAS BANDAS:
 Hay que buscar hacerle llegar la pelota a los extremos en posición favorable o buscar el desdoblamiento de los volantes con los extremos, o los laterales con los volantes.
 
 + Los extremos: cuando reciben la pelota tienen q ir para adelante, encarar al defensor, desbordarlos por fuera o por dentro, o tocar y picar al espacio, pero casi siempre deben ir para adelante y jugar el 1 vs. 1 contra el lateral rival para profundizar. También cuando se dé la posibilidad, pueden buscar el desdoblamiento del volante que pasa en velocidad facilitando el avance. Todo ésto desgasta mucho a los defensores rivales e inclina la cancha a favor.
@@ -60,7 +60,7 @@ Si se ataca por su lado puede:
 
 > Al desbordar y tirar el centro atrás, el que viene a la carrera a rematar debe pegarle al arco "a colocar", ya que tiende a elevarse mucho la pelota y sino esas jugadas terminan todas en el alambrado o en la popular.
 
-### Al atacar por el CENTRO.
+### Al atacar por el CENTRO:
 Hay que buscar **hacer paredes o pases rápidos a 1 o 2 toques** cambiando de ritmo para avanzar entre los rivales, porque hay mucha gente en esa zona y la mayoría dedicados a marcar. Para poder progresar por esta zona es importante ubicarse en "distintas líneas" para obtener profundidad con los pases e intentar aprovechar los triangulos que se forman entre nuestros jugadores.
 
 - Los puntas: Deben hacer diagonales hacia adelante al espacio generando la opción de un pase y cuidando el offside, para ésto deberán dar unos pasos hacia atrás antes de buscar una diagonal. Si descienden a recibir no deben hacerlo en línea recta (vertical), sino en una línea diagonal, ésto les permite recibir perfilados y con ventaja posicional o aguantar la pelota para descargar con un compañero e ir a buscar una pared.
@@ -94,7 +94,23 @@ Su segunda responsabilidad es ordenar al equipo ya que su posición dentro de la
 
 Los laterales: deben recibir perfilados con la cola hacia la raya y recibiendo la pelota con la cancha de frente para armar juego.
 
-> `Es primordial que todos entiendan que los pases horizontales favorecen la presión del rival (sobre todo entre centrales o volantes centrales) y además causa errores no forzados.`
+---
+
+## PRESION
+Para ejercer la presión es primordial hacerla en conjunto (o bloque), sino no tiene eficiencia, y aprovechando los movimientos del rival que favorecen la presión:
+- Pases horizontales
+- Repetición (devolución) de pases entre 2 jugadores
+- Mal control de pelota
+- Jugador mal perfilado
+- Jugador aislado
+- Jugada acorralada contra la banda
+- Jugada que nos encuentra bien parados y con superioridad numérica
+- Pase corto o pase lento
+
+Salir a presionar no significa salir corriendo como loco contra el rival, ya que justamente la presión es una acción conjunta, deben ser movimientos rápidos pero inteligentes, buscando acorralar al rival para dejarlo sin opciones y conseguir sacarle la pelota u obligarlo a ir hacia atrás. No hacer una presión conjunta puede ser muy contraproducente ya que mientras unos se esfuerzan presionando, el rival puede fácilmente saltear la presión dando un pase al espacio que se genera por presionar mal, generando que miembros del equipo corran, se esfuercen y se ahoguen en vano. Por eso es muy importante tener en claro en qué momentos sirve y es conveniente presionar, y hacerlo en bloque.
+Los momentos de presión suelen ser comandados por jugadores que puedan leer estas situaciones favorables en el juego y dar una voz de aviso para que todo el bloque presione coordinadamente. De mi preferencia estos jugadores son los volantes centrales (5) o los defensores centrales.
+
+> `Es primordial que todos entiendan que los pases horizontales favorecen la presión del rival (sobre todo entre centrales o volantes centrales) y además causa errores no forzados. Por eso es importante colocarse en distintas líneas de profundidad`
 
 > `Por último, y no menos importante... El único q puede parar la pelota con la suela, es aquel jugador q reciba CÓMODO de espalda, el resto, en cancha de once, se para la pelota con el borde interno del pie (como hace Messi).`
 
