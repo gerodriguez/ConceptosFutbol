@@ -14,15 +14,15 @@ Jugar un torneo no es sólo ir a jugar con amigos, y hacer lo que nos sale, lo q
 
 ## IDEA DE JUEGO
 La idea es tener un equipo equilibrado y ordenado, ya que por más deficiencias técnicas o físicas que pueda tener un equipo, si se juega ordenado se le puede "hacer partido" a cualquiera. Se buscará usar la estrategia, la táctica y las capacidades grupales e individuales de los jugadores para sacar provecho en ataque y en defensa.
-Me gustaría que el equipo tenga un arquero sólido, un cinco que se coma la cancha, laterales que pasen al ataque, volantes que lleguen al área rival y que hagan relevos, y un 9 que pueda resolver sólo.
+Me gustaría que el equipo tenga un arquero sólido, laterales que pasen al ataque, un cinco que se coma la cancha, volantes que lleguen al área rival y que hagan relevos, y un 9 que pueda resolver sólo.
 
 ### A que jugamos?
-Buscaremos ser un equipo protagonista que ejerce la tenencia práctica de la pelota y crea ataques con cambio de ritmo pudiendo [atacar por el centro](#al-atacar-por-el-centro:) con paredes o [por las bandas](#al-atacar-por-las-bandas:) con desbordes. Manejar eficientemente la [presión] sobre el rival y montar una [defensa] firme y versátil frente a las diferentes situaciones del partido.
+Buscaremos ser un equipo protagonista que ejerce la tenencia práctica, mantiene un estilo de juego simple que hace circular la pelota con triangulaciones y crea ataques con cambio de ritmo, pudiendo [atacar por el centro](#Al-atacar-por-el-CENTRO:) con paredes o [por las bandas](#Al-atacar-por-las-BANDAS:) con desbordes. Manejar eficientemente la [presión] sobre el rival y montar una [defensa] firme y versátil frente a las diferentes situaciones del partido.
 Trataremos de salir jugando por abajo porque ésto permite estirar al equipo rival y aprovechar esos espacios. Pero NO siempre hay que salir jugando por abajo, ya que puede q nos compliquemos sólos con pases entre los defensores o por la presión del rival. (Se irá decidiendo sobre la marcha).
 Si sacamos largo *HAY QUE IR A DISPUTAR LA PELOTA*, y sobre todo, **ir a la segunda jugada** (esto significa acercarse a la zona donde se disputa la pelota, para capturar un rebote, un rechazo o un pase de un compañero).
 
 ### Con la pelota:
-A la par de la [tenencia de pelota] buscaremos atacar haciendo cambios de ritmo en mitad o ¾ de cancha rival buscando profundizar con **PAREDES**, muy importante hacer **paredes**, y/o abriendo la pelota hacia las bandas para profundizar por afuera. Se puede utilizar como recurso el pase largo (si es en diagonal, mejor!) pero no será primordial, ya que nuestra principal arma serán las _PAREDES_.
+A la par de la [tenencia de pelota](#TENENCIA-DE-PELOTA) buscaremos atacar haciendo cambios de ritmo en mitad o ¾ de cancha rival buscando profundizar con **PAREDES**, muy importante hacer **paredes**, y/o abriendo la pelota hacia las bandas para profundizar por afuera. Se puede utilizar como recurso el pase largo (si es en diagonal, mejor!) pero no será primordial, ya que nuestra principal arma serán las _PAREDES_.
 Utilizaremos un estilo de juego simple, sin complicarnos nosotros mismos, esto implica no retener la pelota más de lo necesario, dar pases a tiempo y llevar el juego hacia las zonas menos pobladas de jugadores. Tendrán permitido gambetear quienes tengan la oportunidad de disputar 1 vs.1 frente a un rival (ésto se suele dar en ataque sobre las bandas, en el centro contra un volante rival, o en algún contraataque favorable).
 
 Cuando salimos jugando por abajo, si la pelota le llega al lateral y éste recibe sobre la raya, el volante de ese lado debe cerrarse y buscar el pase por dentro y el extremo de ese lado debe abrirse y buscar el pase por fuera. En cambio si el lateral recibe más hacia el centro, deben alternarse entre el volante y el extremo para quedar uno por fuera y otro por dentro.
@@ -36,7 +36,7 @@ Mi preferencia es implementar una presión intermedia y también sería ideal ej
 ## ATAQUE
 Usaremos ataques por el centro y por las bandas, muchas veces no se puede atacar por el centro porque la zona está muy poblada o porque no salen los pases con la precisión y velocidad necesaria, entonces usamos la opción de atacar por las bandas que suele ser más fácil profundizar o desequilibrar ya que son las zonas menos pobladas y se requiere menos precisión.
 
-### Al atacar por LAS BANDAS:
+### Al atacar por las BANDAS:
 Hay que buscar hacerle llegar la pelota a los extremos en posición favorable o buscar el desdoblamiento de los volantes con los extremos, o los laterales con los volantes.
 
 + Los extremos: cuando reciben la pelota tienen q ir para adelante, encarar al defensor, desbordarlos por fuera o por dentro, o tocar y picar al espacio, pero casi siempre deben ir para adelante y jugar el 1 vs. 1 contra el lateral rival para profundizar. También cuando se dé la posibilidad, pueden buscar el desdoblamiento del volante que pasa en velocidad facilitando el avance. Todo ésto desgasta mucho a los defensores rivales e inclina la cancha a favor.
@@ -93,11 +93,11 @@ Los laterales y volantes deben **amagar para marcar**, sí, *AMAGAR PARA MARCAR*
 ## TENENCIA DE PELOTA
 La tenencia además de posesión, da la posibilidad de descanzar con la pelota y cansar al rival mientras nos marca. Lo ideal será buscar un buen equilibrio entre tenencia práctica y ataque, considerando el cansancio general o el nivel de ahogo.
 
-Volantes centrales (5): El juego pasará mayormente por ellos y serán los encargados de distribuir la pelota. Para ésto deben jugar simple minimizando errores, rotar el juego cuando la zona se encuentra muy cargada o poblada.
+Volantes centrales (5): Es un puesto complejo. El juego pasará mayormente por ellos y serán los encargados de distribuir la pelota. Para ésto deben jugar simple minimizando errores, rotar el juego cuando la zona se encuentra muy cargada o poblada.
 Su principal responsabilidad es distribuir el juego hacia los lados de la cancha sobre todo a los laterales o volantes y colaborar con la marca en mitad de cancha y delante de los defensores.
 Su segunda responsabilidad es ordenar al equipo ya que su posición dentro de la cancha permite manejar una perspectiva privilegiada para detectar huecos en la formación del equipo o compañeros desordenados.
 
-Algunas veces para salir jugando de abajo y armar juego se acude a que baje el 5 entre los centrales y se acerque a la zona de la pelota (para ésto los defensores deberán abrirse y ser opción de pase). Es importante que el 5 cuando reciba se perfile bien, de frente a la cancha, para aprovechar ese movimiento para avanzar o armar juego.
+Algunas veces para salir jugando desde el arco y se acude a que baje el 5 entre los centrales y se acerque a la zona de la pelota (para ésto los defensores deberán abrirse y ser opción de pase). Es importante que el 5 cuando reciba se perfile bien, de frente a la cancha, para aprovechar ese movimiento para avanzar o armar juego. Las opciones de pase inmediatas que tiene serán los laterales o los volantes.
 
 Los laterales: Al recibir la pelota deben hacerlo perfilados con la cola hacia la raya y recibiendo la pelota con la cancha de frente, ésto permite avanzar o armar juego en menos tiempo, facilitando el avance.
 
