@@ -13,15 +13,16 @@ Jugar un torneo no es sólo ir a jugar con amigos, y hacer lo que nos sale, lo q
 ---
 
 ## IDEA DE JUEGO
-La idea es tener un equipo equilibrado y ordenado, ya que por más deficiencias técnicas o físicas que pueda tener un equipo, si se juega ordenado se le puede "hacer partido" a cualquiera. Se buscará usar la estrategia, la táctica y las capacidades grupales e individuales de los jugadores para sacar provecho en ataque y en defensa. Me gustaría que el equipo tenga un arquero sólido, un cinco que se coma la cancha y un 9 que pueda resolver sólo.
+La idea es tener un equipo equilibrado y ordenado, ya que por más deficiencias técnicas o físicas que pueda tener un equipo, si se juega ordenado se le puede "hacer partido" a cualquiera. Se buscará usar la estrategia, la táctica y las capacidades grupales e individuales de los jugadores para sacar provecho en ataque y en defensa.
+Me gustaría que el equipo tenga un arquero sólido, un cinco que se coma la cancha, laterales que pasen al ataque, volantes que lleguen al área rival y que hagan relevos, y un 9 que pueda resolver sólo.
 
 ### A que jugamos?
-Buscaremos ser un equipo protagonista que ejerce la tenencia práctica de la pelota y crea ataques con cambio de ritmo pudiendo atacar con paredes por el centro o con desbordes por las bandas. Manejar eficientemente la presión sobre el rival y montar una defensa firme y versátil frente a las diferentes situaciones del partido.
+Buscaremos ser un equipo protagonista que ejerce la tenencia práctica de la pelota y crea ataques con cambio de ritmo pudiendo [atacar por el centro](#al-atacar-por-el-centro:) con paredes o [por las bandas](#al-atacar-por-las-bandas:) con desbordes. Manejar eficientemente la [presión] sobre el rival y montar una [defensa] firme y versátil frente a las diferentes situaciones del partido.
 Trataremos de salir jugando por abajo porque ésto permite estirar al equipo rival y aprovechar esos espacios. Pero NO siempre hay que salir jugando por abajo, ya que puede q nos compliquemos sólos con pases entre los defensores o por la presión del rival. (Se irá decidiendo sobre la marcha).
 Si sacamos largo *HAY QUE IR A DISPUTAR LA PELOTA*, y sobre todo, **ir a la segunda jugada** (esto significa acercarse a la zona donde se disputa la pelota, para capturar un rebote, un rechazo o un pase de un compañero).
 
 ### Con la pelota:
-A la par de la tenencia de la pelota buscaremos atacar haciendo cambios de ritmo en mitad o ¾ de cancha rival buscando profundizar con **PAREDES**, muy importante hacer **paredes**, y/o abriendo la pelota hacia las bandas para profundizar por afuera. Se puede utilizar como recurso el pase largo (si es en diagonal, mejor!) pero no será primordial, ya que nuestra principal arma serán las _PAREDES_.
+A la par de la [tenencia de pelota] buscaremos atacar haciendo cambios de ritmo en mitad o ¾ de cancha rival buscando profundizar con **PAREDES**, muy importante hacer **paredes**, y/o abriendo la pelota hacia las bandas para profundizar por afuera. Se puede utilizar como recurso el pase largo (si es en diagonal, mejor!) pero no será primordial, ya que nuestra principal arma serán las _PAREDES_.
 Utilizaremos un estilo de juego simple, sin complicarnos nosotros mismos, esto implica no retener la pelota más de lo necesario, dar pases a tiempo y llevar el juego hacia las zonas menos pobladas de jugadores. Tendrán permitido gambetear quienes tengan la oportunidad de disputar 1 vs.1 frente a un rival (ésto se suele dar en ataque sobre las bandas, en el centro contra un volante rival, o en algún contraataque favorable).
 
 Cuando salimos jugando por abajo, si la pelota le llega al lateral y éste recibe sobre la raya, el volante de ese lado debe cerrarse y buscar el pase por dentro y el extremo de ese lado debe abrirse y buscar el pase por fuera. En cambio si el lateral recibe más hacia el centro, deben alternarse entre el volante y el extremo para quedar uno por fuera y otro por dentro.
@@ -128,6 +129,7 @@ Los momentos de presión suelen ser comandados por jugadores que puedan leer est
 
 ### Presión tras pérdida:
 Consiste en presionar sobre la pelota inmediatamente después de perderla (6 segundos de presión máxima y coordinada) para quitarle al rival la posibilidad de aemar juego, incomodarlo, obligarlo a jugar hacia atrás o incluso tener la posibilidad de volver a recuperar la pelota.
+
 
 > `Por último, y no menos importante... El único q puede parar la pelota con la suela, es aquel jugador q reciba CÓMODO de espalda, el resto, en cancha de once, se para la pelota con el borde interno del pie (como hace Messi).`
 
