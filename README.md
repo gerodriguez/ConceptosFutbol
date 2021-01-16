@@ -147,5 +147,5 @@ Consiste en presionar sobre la pelota inmediatamente después de perderla (6 seg
 > `Por último, y no menos importante... El único q puede parar la pelota con la suela, es aquel jugador que reciba CÓMODO de espalda, el resto, en cancha de once, se para la pelota con el borde interno del pie (como hace Messi).`
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OBWr4lBHb8s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; playback-rate" allowfullscreen setPlaybackRate="1.5"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OBWr4lBHb8s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; playback-rate" allowfullscreen></iframe>
 ---
