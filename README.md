@@ -1,6 +1,5 @@
 # Conceptos de Futbol
 Elegí plasmar algunas ideas en texto ya que ayudan a ordenarse, clarificar y tener como ayuda memoria.
-- [IDEA DE JUEGO](#idea-de-juego)
 
 ## INTRODUCCION
 Quiero comenzar por las bases y los conceptos y luego ir profundizando en los detalles de cada puesto.
@@ -15,22 +14,25 @@ Jugar un torneo no es sólo ir a jugar con amigos, y hacer lo que nos sale, lo q
 
 ## IDEA DE JUEGO
 La idea es tener un equipo equilibrado y ordenado, ya que por más deficiencias técnicas o físicas que pueda tener un equipo, si se juega ordenado se le puede "hacer partido" a cualquiera. Se buscará usar la estrategia, la táctica y las capacidades grupales e individuales de los jugadores para sacar provecho en ataque y en defensa.
-Me gustaría que el equipo tenga un arquero sólido, laterales que pasen al ataque, un cinco que se coma la cancha, volantes que lleguen al área rival y que hagan relevos, y un 9 que pueda resolver sólo.
+Me gustaría que el equipo sea solidario con los compañeros, tenga un arquero seguro, un central sólido que no falle, laterales que pasen al ataque, un cinco que se coma la cancha, volantes que lleguen al área rival y que hagan relevos, y un 9 que pueda resolver sólo.
 
 ### A que jugamos?
-Buscaremos ser un equipo protagonista que ejerce la tenencia práctica, mantiene un estilo de juego simple que hace circular la pelota con triangulaciones y crea ataques con cambio de ritmo, pudiendo [atacar por el centro](#al-atacar-por-el-centro) con paredes o [por las bandas](#al-atacar-por-las-bandas) con desbordes. Manejar eficientemente la [presión] sobre el rival y montar una [defensa] firme y versátil frente a las diferentes situaciones del partido.
-Trataremos de salir jugando por abajo porque ésto permite estirar al equipo rival y aprovechar esos espacios. Pero NO siempre hay que salir jugando por abajo, ya que puede q nos compliquemos sólos con pases entre los defensores o por la presión del rival. (Se irá decidiendo sobre la marcha).
-Si sacamos largo *HAY QUE IR A DISPUTAR LA PELOTA*, y sobre todo, **ir a la segunda jugada** (esto significa acercarse a la zona donde se disputa la pelota, para capturar un rebote, un rechazo o un pase de un compañero).
+Buscaremos ser un equipo protagonista que ejerce la [tenencia práctica](#tenencia-de-pelota), mantiene un estilo de juego simple que hace circular la pelota con triangulaciones y crea ataques con cambio de ritmo, pudiendo atacar [por el centro](#al-atacar-por-el-centro) **con paredes** o [por las bandas](#al-atacar-por-las-bandas) **con desbordes**. Manejar eficientemente la [presión](#presion) sobre el rival y montar una [defensa](#defensa) firme y versátil frente a las diferentes situaciones del partido.
+Manejaremos los [saques de arco](#saques-de-arco) de forma inteligente
 
 ### Con la pelota:
-A la par de la [tenencia de pelota](#TENENCIA-DE-PELOTA) buscaremos atacar haciendo cambios de ritmo en mitad o ¾ de cancha rival buscando profundizar con **PAREDES**, muy importante hacer **paredes**, y/o abriendo la pelota hacia las bandas para profundizar por afuera. Se puede utilizar como recurso el pase largo (si es en diagonal, mejor!) pero no será primordial, ya que nuestra principal arma serán las _PAREDES_.
+A la par de la [tenencia de pelota](#tenencia-de-pelota) buscaremos atacar haciendo cambios de ritmo en mitad o ¾ de cancha rival buscando profundizar con **PAREDES**, muy importante hacer **paredes**, y/o abriendo la pelota hacia las bandas para profundizar por afuera. Se puede utilizar como recurso el pase largo (si es en diagonal, mejor!) pero no será primordial, ya que nuestra principal arma serán las _PAREDES_.
 Utilizaremos un estilo de juego simple, sin complicarnos nosotros mismos, esto implica no retener la pelota más de lo necesario, dar pases a tiempo y llevar el juego hacia las zonas menos pobladas de jugadores. Tendrán permitido gambetear quienes tengan la oportunidad de disputar 1 vs.1 frente a un rival (ésto se suele dar en ataque sobre las bandas, en el centro contra un volante rival, o en algún contraataque favorable).
+
+### Saque de Arco:
+Trataremos de salir jugando por abajo porque ésto permite estirar al equipo rival y aprovechar esos espacios. Pero NO siempre se podrá salir jugando por abajo, ya que puede q nos compliquemos sólos con pases entre los defensores o por la presión del rival. (Se irá decidiendo sobre la marcha).
+Si sacamos largo *HAY QUE IR A DISPUTAR LA PELOTA*, y sobre todo, **ir a la segunda jugada** (esto significa acercarse a la zona donde se disputa la pelota, para capturar un rebote, un rechazo o un pase de un compañero). Antes de que se efectúe el saque largo, la zona ya debe estar poblada por al menos 2 jugadores propios, preferentemente uno que va a ser quien dispute la pelota y otro quien reciba el pase.
 
 Cuando salimos jugando por abajo, si la pelota le llega al lateral y éste recibe sobre la raya, el volante de ese lado debe cerrarse y buscar el pase por dentro y el extremo de ese lado debe abrirse y buscar el pase por fuera. En cambio si el lateral recibe más hacia el centro, deben alternarse entre el volante y el extremo para quedar uno por fuera y otro por dentro.
 
 ### Sin la pelota:
 Nuevamente resalto la importancia de jugar ordenados y coordinados.
-Mi preferencia es implementar una presión intermedia y también sería ideal ejercer una _presión tras pérdida_ rápida para volver a recuperar la pelota.
+Mi preferencia es implementar una presión intermedia y también sería ideal ejercer una [_presión tras pérdida_](#presión-tras-pérdida) rápida para volver a recuperar la pelota.
 
 ---
 
@@ -40,7 +42,7 @@ Usaremos ataques por el centro y por las bandas, muchas veces no se puede atacar
 ### Al atacar por las BANDAS:
 Hay que buscar hacerle llegar la pelota a los extremos en posición favorable o buscar el desdoblamiento de los volantes con los extremos, o los laterales con los volantes.
 
-+ Los extremos: cuando reciben la pelota tienen q ir para adelante, encarar al defensor, desbordarlos por fuera o por dentro, o tocar y picar al espacio, pero casi siempre deben ir para adelante y jugar el 1 vs. 1 contra el lateral rival para profundizar. También cuando se dé la posibilidad, pueden buscar el desdoblamiento del volante que pasa en velocidad facilitando el avance. Todo ésto desgasta mucho a los defensores rivales e inclina la cancha a favor.
++ _Los extremos_: cuando reciben la pelota tienen q ir para adelante, encarar al defensor, desbordarlos por fuera o por dentro, o tocar y picar al espacio, pero casi siempre deben ir para adelante y jugar el 1 vs. 1 contra el lateral rival para profundizar. También cuando se dé la posibilidad, pueden buscar el desdoblamiento del volante que pasa en velocidad facilitando el avance. Todo ésto desgasta mucho a los defensores rivales e inclina la cancha a favor.
 Al desbordar con éxito al defensor se produce un desequilibrio que se puede aprovechar:
   - Dando un pase al medio para los puntas.
   - Llegando al fondo y tirando el centro (al primer palo si llega un compañero, hacia atrás, o pasado al segundo palo; al medio del área no, xq va a estar muy poblada).
@@ -48,9 +50,9 @@ Al desbordar con éxito al defensor se produce un desequilibrio que se puede apr
 
   Si reciben en la banda a la altura del área, un centro rápido es una buena opción para sorprender.
 
-+ Los puntas: Cuando se ataca por las bandas deben cruzarse para aumentar las posibilidades de gol; el punta del lado opuesto ataca por el primer palo y el otro ataca el segundo palo o el centro del área de forma escalonada (no estén en la misma línea)
++ _Los puntas_: Cuando se ataca por las bandas deben cruzarse para aumentar las posibilidades de gol; el punta del lado opuesto ataca por el primer palo y el otro ataca el segundo palo o el centro del área de forma escalonada (no estén en la misma línea)
 
-+ Los volantes: Cuando se ataca del lado opuesto a su posición, deben cruzarse en diagonal para recibir detrás del/de los 5 rival/es y así quedar mano a mano contra los centrales generando superioridad numérica cerca del área rival.
++ _Los volantes_: Cuando se ataca del lado opuesto a su posición, deben cruzarse en diagonal para recibir detrás del/de los 5 rival/es y así quedar mano a mano contra los centrales generando superioridad numérica cerca del área rival.
 Si se ataca por su lado puede:
   + Si tiene la pelota:
     - Buscar al extremo.
@@ -60,7 +62,7 @@ Si se ataca por su lado puede:
   + Sin la pelota:
     - Pasar en velocidad (desdoblamiento) para desbordar.
 
-+ Los laterales: Cuando pasan al ataque lo hacen "de a uno a la vez", el del lado contrario al que pasa debe cerrarse para equilibrar la defensa. Comúnmente el desdoblamiento se hace por fuera, pero también se puede hacer (alguna vez y si la situación es favorable) en diagonal hacia adentro para sorprender.
++ _Los laterales_: Cuando pasan al ataque lo hacen "de a uno a la vez", el del lado contrario al que pasa debe cerrarse para equilibrar la defensa. Comúnmente el desdoblamiento se hace por fuera, pero también se puede hacer (alguna vez y si la situación es favorable) en diagonal hacia adentro para sorprender.
 
 > Al desbordar y tirar el centro atrás, el que viene a la carrera a rematar debe pegarle al arco "a colocar", ya que tiende a elevarse mucho la pelota y sino esas jugadas terminan todas en el alambrado o en la popular.
 
