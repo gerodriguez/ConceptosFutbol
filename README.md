@@ -18,7 +18,7 @@ Me gustaría que el equipo sea solidario con los compañeros, tenga un arquero s
 
 ### A que jugamos?
 Buscaremos ser un equipo protagonista que ejerce la [tenencia práctica](#tenencia-de-pelota), mantiene un estilo de juego simple que hace circular la pelota con triangulaciones y crea ataques con cambio de ritmo, pudiendo atacar [por el centro](#al-atacar-por-el-centro) **con paredes** o [por las bandas](#al-atacar-por-las-bandas) **con desbordes**. Manejar eficientemente la [presión](#presion) sobre el rival y montar una [defensa](#defensa) firme y versátil frente a las diferentes situaciones del partido.
-Manejaremos los [saques de arco](#saques-de-arco) de forma inteligente
+Aprovechar los [saques de arco](#saques-de-arco) de forma inteligente.
 
 ### Con la pelota:
 A la par de la [tenencia de pelota](#tenencia-de-pelota) buscaremos atacar haciendo cambios de ritmo en mitad o ¾ de cancha rival buscando profundizar con **PAREDES**, muy importante hacer **paredes**, y/o abriendo la pelota hacia las bandas para profundizar por afuera. Se puede utilizar como recurso el pase largo (si es en diagonal, mejor!) pero no será primordial, ya que nuestra principal arma serán las _PAREDES_.
@@ -73,20 +73,25 @@ Hay que buscar **hacer paredes o pases rápidos a 1 o 2 toques** cambiando de ri
 
 - Los volantes y/o el enganche: Serán los principales encargados en hacer los cambios de ritmo o iniciar los pases rápidos y paredes necesarios para desequilibrar en ataque y avanzar por las zonas pobladas.
 
+[!Como triangula y juega entre líneas Kevin De Bryune(https://youtu.be/j9QzPIvX4jw)]
+
 Una jugada muy simple de ataque y que puede generar mucho peligro es cuando un lateral o un volante da un pase hacia atrás (se apoya) en un volante central, y éste de primera mete un pase curvo detrás de la línea de defensores para que pique un punta.
 
 > `Todos estos conceptos no van a salir bien las primeras veces, pero hay que intentarlo. No importa si sale mal la ejecución, pero hay que intentar aplicar el concepto y la idea de juego porque estoy convencido que de esa forma se logran buenos resultados.`
+
+[!Video Explicativo(https://youtu.be/MhOd9V_Vxdc)]
 
 ---
 
 ## DEFENSA
 El equipo debe bascular para el lado en que se encuentra la pelota.
 
-- Los delanteros: la forma de marcar debe ser cerrando líneas de pase, sobre todo por el centro. Porque los pases que adquieren profundidad por el centro generan peligro.
-- Los volantes: toman marca en zona y a cierta distancia del rival, no al hombre.
-- Los defensores: También marcan en zona, pero toman marca al hombre de cerca y deben asegurarse de que tengamos superioridad numérica. Deben hacer de cuenta que son una _"formación de batalla romana"_ manejando los espacios entre los que defienden.
+- _Los delanteros_: la forma de marcar debe ser cerrando líneas de pase, sobre todo por el centro. Porque los pases que adquieren profundidad por el centro generan peligro.
+- _Los volantes_: toman marca en zona y a cierta distancia del rival, no al hombre.
+- _Los defensores_: También marcan en zona, pero toman marca al hombre de cerca y deben asegurarse de que tengamos superioridad numérica. Deben hacer de cuenta que son una _"formación de batalla romana"_ manejando los espacios entre los que defienden.
+
 Los centrales ante el pelotazo, debe ir uno sólo a disputar la pelota y el otro sobrar por la posible perdida del que fue a disputar.
-Los laterales y volantes deben **amagar para marcar**, sí, *AMAGAR PARA MARCAR*, esto da muchas ventajas y fuerza el error rival casi sin esfuerzo. También usar la raya a favor para arrinconar al rival.
+Los laterales y volantes deben usar la raya a su favor para arrinconar al rival y **amagar para marcar**, sí, *AMAGAR PARA MARCAR*, ésto da muchas ventajas y fuerza el error rival casi sin esfuerzo.
 
 
 > Trataremos de practicar la basculación y la "formación de batalla" antes de los partidos para ir incorporándola con práctica.
@@ -107,6 +112,8 @@ Los laterales: Al recibir la pelota deben hacerlo perfilados con la cola hacia l
 Los volantes: Si reciben de espaldas y tienen la marca encima es mucho más seguro, cuando estamos haciendo tenencia, descargar hacia atrás (apoyarse) con un compañero e inmediatamente hacer un movimiento para desmarcarse y recibir perfilado.
 
 > Los Pases: Es importante dar pases firmes que garantizan que la pelota viaje segura, no sea interceptada y facilitan el control al compañero.
+
+[!Video táctico(https://youtu.be/MhOd9V_Vxdc)]
 
 ---
 
