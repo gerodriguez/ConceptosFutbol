@@ -88,14 +88,17 @@ Una jugada muy simple de ataque y que puede generar mucho peligro es cuando un l
 ## DEFENSA
 El equipo debe bascular para el lado en que se encuentra la pelota.
 
-- _Los delanteros_: la forma de marcar debe ser cerrando líneas de pase, sobre todo por el centro. Porque los pases que adquieren profundidad por el centro generan peligro.
-- _Los volantes_: toman marca en zona y a cierta distancia del rival, no al hombre.
+[![Basculación](https://img.youtube.com/vi/yEmI6Bm3-lk/sddefault.jpg)](https://www.youtube.com/watch?v=yEmI6Bm3-lk)
+
+Todas las líneas del equipo deben marcar, cada línea lo hará de la manera más eficiente.
+- _Los delanteros_: La forma de marcar debe ser cerrando líneas de pase, sobre todo por el centro. Porque los pases que adquieren profundidad por el centro (pases verticales) generan peligro y rompen la presión.
+- _Los volantes_: Toman marca en zona y a cierta distancia del rival, no al hombre.
 - _Los defensores_: También marcan en zona, pero toman marca al hombre de cerca y deben asegurarse de que tengamos superioridad numérica. Deben hacer de cuenta que son una _"formación de batalla romana"_ manejando los espacios entre los que defienden.
 
 Los centrales ante el pelotazo, debe ir uno sólo a disputar la pelota y el otro sobrar por la posible perdida del que fue a disputar.
 Los laterales y volantes deben usar la raya a su favor para arrinconar al rival y **amagar para marcar**, sí, *AMAGAR PARA MARCAR*, ésto da muchas ventajas y fuerza el error rival casi sin esfuerzo.
 
-[![Análisis de defensa](https://img.youtube.com/vi/ZLwkAsEo62A/sddefault.jpg)](https://www.youtube.com/watch?v=ZLwkAsEo62A)
+[![Análisis de defensa](https://img.youtube.com/vi/ZLwkAsEo62A/sddefault.jpg)](https://www.youtube.com/watch?v=ZLwkAsEo62A&t=39)
 
 > Trataremos de practicar la basculación y la "formación de batalla" antes de los partidos para ir incorporándola con práctica.
 
@@ -143,9 +146,8 @@ Los momentos de presión suelen ser comandados por jugadores que puedan leer est
 ### Presión tras pérdida:
 Consiste en presionar sobre la pelota inmediatamente después de perderla (6 segundos de presión máxima y coordinada) para quitarle al rival la posibilidad de aemar juego, incomodarlo, obligarlo a jugar hacia atrás o incluso tener la posibilidad de volver a recuperar la pelota.
 
+[![Presión tras pérdida](https://img.youtube.com/vi/9iueNOuW1Rs/sddefault.jpg)](https://www.youtube.com/watch?v=9iueNOuW1Rs)
 
 > `Por último, y no menos importante... El único q puede parar la pelota con la suela, es aquel jugador que reciba CÓMODO de espalda, el resto, en cancha de once, se para la pelota con el borde interno del pie (como hace Messi).`
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OBWr4lBHb8s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; playback-rate" allowfullscreen></iframe>
 ---
