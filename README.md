@@ -69,19 +69,19 @@ Si se ataca por su lado puede:
 ### Al atacar por el CENTRO:
 Hay que buscar **hacer paredes o pases rápidos a 1 o 2 toques** cambiando de ritmo y triangulando para avanzar entre los rivales, porque hay mucha gente en esa zona y la mayoría dedicados a marcar. Para poder progresar por esta zona es importante ubicarse en "distintas líneas" para obtener profundidad con los pases e intentar aprovechar los triangulos que se forman entre nuestros jugadores.
 
-[[!Triangular](/imagenes/los-triangulos-en-el-futbol.png)](/imagenes/los-triangulos-en-el-futbol.png)
+[![Triangular](/imagenes/los-triangulos-en-el-futbol.png)](/imagenes/los-triangulos-en-el-futbol.png)
 
 - Los puntas: Deben hacer diagonales hacia adelante al espacio generando la opción de un pase y cuidando el offside, para ésto deberán dar unos pasos hacia atrás antes de buscar una diagonal. Si descienden a recibir no deben hacerlo en línea recta (vertical), sino en una línea diagonal, ésto les permite recibir perfilados y con ventaja posicional o aguantar la pelota para descargar con un compañero e ir a buscar una pared.
 
 - Los volantes y/o el enganche: Serán los principales encargados en hacer los cambios de ritmo o iniciar los pases rápidos y paredes necesarios para desequilibrar en ataque y avanzar por las zonas pobladas.
 
-[![Como triangula y juega entre líneas Kevin De Bryune](https://img.youtube.com/vi/j9QzPIvX4jw/maxresdefault.jpg)](https://youtu.be/j9QzPIvX4jw)
+[![Como triangula y juega entre líneas Kevin De Bryune](https://img.youtube.com/vi/j9QzPIvX4jw/sddefault.jpg)](https://youtu.be/j9QzPIvX4jw)
 
 Una jugada muy simple de ataque y que puede generar mucho peligro es cuando un lateral o un volante da un pase hacia atrás (se apoya) en un volante central, y éste de primera mete un pase curvo detrás de la línea de defensores para que pique un punta.
 
 > `Todos estos conceptos no van a salir bien las primeras veces, pero hay que intentarlo. No importa si sale mal la ejecución, pero hay que intentar aplicar el concepto y la idea de juego porque estoy convencido que de esa forma se logran buenos resultados.`
 
-[![Video Explicativo](https://img.youtube.com/vi/MhOd9V_Vxdc/maxresdefault.jpg)](https://youtu.be/MhOd9V_Vxdc)]
+[![Video Explicativo](https://img.youtube.com/vi/MhOd9V_Vxdc/sddefault.jpg)](https://youtu.be/MhOd9V_Vxdc)
 
 ---
 
@@ -95,7 +95,7 @@ El equipo debe bascular para el lado en que se encuentra la pelota.
 Los centrales ante el pelotazo, debe ir uno sólo a disputar la pelota y el otro sobrar por la posible perdida del que fue a disputar.
 Los laterales y volantes deben usar la raya a su favor para arrinconar al rival y **amagar para marcar**, sí, *AMAGAR PARA MARCAR*, ésto da muchas ventajas y fuerza el error rival casi sin esfuerzo.
 
-[![Análisis de defensa]https://img.youtube.com/vi/ZLwkAsEo62A/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZLwkAsEo62A)
+[![Análisis de defensa](https://img.youtube.com/vi/ZLwkAsEo62A/sddefault.jpg)](https://www.youtube.com/watch?v=ZLwkAsEo62A)
 
 > Trataremos de practicar la basculación y la "formación de batalla" antes de los partidos para ir incorporándola con práctica.
 
@@ -116,7 +116,7 @@ Los volantes: Si reciben de espaldas y tienen la marca encima es mucho más segu
 
 > Los Pases: Es importante dar pases firmes que garantizan que la pelota viaje segura, no sea interceptada y facilitan el control al compañero.
 
-[![Video táctico](https://img.youtube.com/vi/MhOd9V_Vxdc/maxresdefault.jpg)](https://youtu.be/MhOd9V_Vxdc)]
+[![Video táctico](https://img.youtube.com/vi/MhOd9V_Vxdc/sddefault.jpg)](https://youtu.be/MhOd9V_Vxdc)]
 
 ---
 
