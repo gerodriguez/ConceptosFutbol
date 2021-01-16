@@ -116,7 +116,7 @@ Los volantes: Si reciben de espaldas y tienen la marca encima es mucho más segu
 
 > Los Pases: Es importante dar pases firmes que garantizan que la pelota viaje segura, no sea interceptada y facilitan el control al compañero.
 
-[![Video táctico](https://img.youtube.com/vi/MhOd9V_Vxdc/sddefault.jpg)](https://youtu.be/MhOd9V_Vxdc)]
+[![Video táctico](https://img.youtube.com/vi/OBWr4lBHb8s/sddefault.jpg)](https://www.youtube.com/watch?v=OBWr4lBHb8s&t=1m11s)
 
 ---
 
@@ -144,6 +144,8 @@ Los momentos de presión suelen ser comandados por jugadores que puedan leer est
 Consiste en presionar sobre la pelota inmediatamente después de perderla (6 segundos de presión máxima y coordinada) para quitarle al rival la posibilidad de aemar juego, incomodarlo, obligarlo a jugar hacia atrás o incluso tener la posibilidad de volver a recuperar la pelota.
 
 
-> `Por último, y no menos importante... El único q puede parar la pelota con la suela, es aquel jugador q reciba CÓMODO de espalda, el resto, en cancha de once, se para la pelota con el borde interno del pie (como hace Messi).`
+> `Por último, y no menos importante... El único q puede parar la pelota con la suela, es aquel jugador que reciba CÓMODO de espalda, el resto, en cancha de once, se para la pelota con el borde interno del pie (como hace Messi).`
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OBWr4lBHb8s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; playback-rate" allowfullscreen setPlaybackRate="1.5"></iframe>
 ---
