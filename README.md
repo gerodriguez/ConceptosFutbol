@@ -1,9 +1,9 @@
 # Conceptos de Futbol
-Me decidí por plasmar algunas ideas en texto ya que ayudan a ordenarse, tener más claros y sintétizados los conceptos y además sirven como ayuda memoria.
+Me decidí por plasmar algunas ideas en texto ya que ayudan a ordenarse, tener más claros y sintetizados los conceptos y además sirven como ayuda memoria.
 
 ## INTRODUCCION
 Quiero comenzar por las bases y los conceptos y luego ir profundizando en los detalles de cada puesto.
-Para competir en un torneo, los jugadores tienen que hacer lo necesario para que el equipo funcione, deben tomárselo en serio, concentrarse y tener comportamiento individual y conjunto para el buen funcionamiento del equipo, ésto requiere adoptar una mentalidad abierta y de progreso, disposición para recibir y seguir indicaciones, y dedicación por el equipo. Una vez adoptada esta actitud se llega a un alto nivel cuando se logra tomar decisiones teniendo en cuenta la posición o ubicación de los compañeros.
+Para competir en un torneo, los jugadores tienen que hacer lo necesario para que el equipo funcione, deben tomárselo en serio, concentrarse y tener comportamiento individual y conjunto para el buen funcionamiento del equipo, ésto requiere adoptar una mentalidad abierta y de progreso, disposición para recibir y seguir indicaciones, y dedicación por el equipo. Una vez adoptada esta actitud se llega a un alto nivel cuando se logra tomar decisiones teniendo en cuenta la posición o ubicación de los compañeros llevando a cabo indicaciones e implementando la idea de juego planteada.
 Ésto es el fútbol a nivel competitivo y eso no lo hace menos divertido, también se puede encontrar diversión y sobretodo satisfacción en ello, no hay mejor satisfacción que sentir que uno forma parte de un equipo que trabaja bien y se lo toma en serio, y que sigue un sistema de juego y aplica un criterio futbolístico compartido mas allá de los resultados obtenidos; Porque eso te marca la pauta de que crece el espíritu del equipo, se juega más cómodo y los resultados se darán solos.
 
 Jugar un torneo no es sólo ir a jugar con amigos, y hacer lo que nos sale, lo que siempre hicimos o lo que nos pinta... Para eso está el fútbol recreativo de la semana.
