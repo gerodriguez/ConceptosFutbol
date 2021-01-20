@@ -1,5 +1,5 @@
 # Conceptos de Futbol
-Elegí plasmar algunas ideas en texto ya que ayudan a ordenarse, clarificar y tener como ayuda memoria.
+Me decidí por plasmar algunas ideas en texto ya que ayudan a ordenarse, tener más claros y sintétizados los conceptos y además sirven como ayuda memoria.
 
 ## INTRODUCCION
 Quiero comenzar por las bases y los conceptos y luego ir profundizando en los detalles de cada puesto.
@@ -62,7 +62,7 @@ Si se ataca por su lado puede:
   + Sin la pelota:
     - Pasar en velocidad (desdoblamiento) para desbordar.
 
-+ _Los laterales_: Cuando pasan al ataque lo hacen "de a uno a la vez", el del lado contrario al que pasa debe cerrarse para equilibrar la defensa. Comúnmente el desdoblamiento se hace por fuera, pero también se puede hacer (alguna vez y si la situación es favorable) en diagonal hacia adentro para sorprender.
++ _Los laterales_: Cuando pasan al ataque lo hacen "de a uno a la vez", el del lado contrario al que pasa debe cerrarse para equilibrar la defensa. Comúnmente el desdoblamiento se hace por fuera, pero también se puede hacer (alguna vez y si la situación es favorable) en diagonal hacia adentro para sorprender. Cuando pasan al ataque es muy bueno que implementen al menos un amague por tiempo, ésto hace menos previsible el ataque, además el que los marca, no está esperando que un lateral haga un amague.
 
 > Al desbordar y tirar el centro atrás, el que viene a la carrera a rematar debe pegarle al arco "a colocar", ya que tiende a elevarse mucho la pelota y sino esas jugadas terminan todas en el alambrado o en la popular.
 
@@ -86,16 +86,19 @@ Una jugada muy simple de ataque y que puede generar mucho peligro es cuando un l
 ---
 
 ## DEFENSA
-El equipo debe bascular para el lado en que se encuentra la pelota.
+El equipo debe bascular para el lado en que se encuentra la pelota. Ésto significa acercarse a la zona donde está la pelota, para cerrar los espacios y generar superioridad numérica.
 
 [![Basculación](https://img.youtube.com/vi/yEmI6Bm3-lk/sddefault.jpg)](https://www.youtube.com/watch?v=yEmI6Bm3-lk)
 
 Todas las líneas del equipo deben marcar, cada línea lo hará de la manera más eficiente.
-- _Los delanteros_: La forma de marcar debe ser cerrando líneas de pase, sobre todo por el centro. Porque los pases que adquieren profundidad por el centro (pases verticales) generan peligro y rompen la presión.
+- _Los delanteros_: La forma de marcar debe ser cerrando líneas de pase, sobre todo por el centro. Porque los pases que adquieren profundidad por el centro (pases verticales) generan peligro y rompen la presión. Cuando el rival mueva la pelota entre sus defensores los delanteros deberán marcar "barriendo" las líneas de pase por el centro, formando una trayectoria con forma de "abanico".
 - _Los volantes_: Toman marca en zona y a cierta distancia del rival, no al hombre.
 - _Los defensores_: También marcan en zona, pero toman marca al hombre de cerca y deben asegurarse de que tengamos superioridad numérica. Deben hacer de cuenta que son una _"formación de batalla romana"_ manejando los espacios entre los que defienden.
 
 Los centrales ante el pelotazo, debe ir uno sólo a disputar la pelota y el otro sobrar por la posible perdida del que fue a disputar.
+
+[![Movimientos de la defensa](https://img.youtube.com/vi/pJwsAOfpOFI/sddefault.jpg)](https://youtu.be/pJwsAOfpOFI)
+
 Los laterales y volantes deben usar la raya a su favor para arrinconar al rival y **amagar para marcar**, sí, *AMAGAR PARA MARCAR*, ésto da muchas ventajas y fuerza el error rival casi sin esfuerzo.
 
 [![Análisis de defensa](https://img.youtube.com/vi/ZLwkAsEo62A/sddefault.jpg)](https://www.youtube.com/watch?v=ZLwkAsEo62A&t=39)
@@ -105,19 +108,19 @@ Los laterales y volantes deben usar la raya a su favor para arrinconar al rival 
 ---
 
 ## TENENCIA DE PELOTA
-La tenencia además de posesión, da la posibilidad de descanzar con la pelota y cansar al rival mientras nos marca. Lo ideal será buscar un buen equilibrio entre tenencia práctica y ataque, considerando el cansancio general o el nivel de ahogo.
+La tenencia además de posesión, da la posibilidad de descanzar con la pelota y cansar al rival mientras bascula y nos marca. Lo ideal será buscar un buen equilibrio entre tenencia práctica y ataque, considerando el cansancio general o el nivel de ahogo.
 
-Volantes centrales (5): Es un puesto complejo. El juego pasará mayormente por ellos y serán los encargados de distribuir la pelota. Para ésto deben jugar simple minimizando errores, rotar el juego cuando la zona se encuentra muy cargada o poblada.
+Volantes centrales (5): Es un puesto complejo y de los más importantes para un equipo. El juego pasará mayormente por ellos y serán los encargados de distribuir la pelota. Para ésto deben jugar simple minimizando errores, rotar el juego cuando una zona se encuentra muy cargada o poblada.
 Su principal responsabilidad es distribuir el juego hacia los lados de la cancha sobre todo a los laterales o volantes y colaborar con la marca en mitad de cancha y delante de los defensores.
 Su segunda responsabilidad es ordenar al equipo ya que su posición dentro de la cancha permite manejar una perspectiva privilegiada para detectar huecos en la formación del equipo o compañeros desordenados.
 
 Algunas veces para salir jugando desde el arco y se acude a que baje el 5 entre los centrales y se acerque a la zona de la pelota (para ésto los defensores deberán abrirse y ser opción de pase). Es importante que el 5 cuando reciba se perfile bien, de frente a la cancha, para aprovechar ese movimiento para avanzar o armar juego. Las opciones de pase inmediatas que tiene serán los laterales o los volantes.
 
-Los laterales: Al recibir la pelota deben hacerlo perfilados con la cola hacia la raya y recibiendo la pelota con la cancha de frente, ésto permite avanzar o armar juego en menos tiempo, facilitando el avance.
+_Los laterales_: Al recibir la pelota deben hacerlo perfilados con la cola hacia la raya y recibiendo la pelota con la cancha de frente, ésto permite avanzar o armar juego en menos tiempo, facilitando el avance.
 
-Los volantes: Si reciben de espaldas y tienen la marca encima es mucho más seguro, cuando estamos haciendo tenencia, descargar hacia atrás (apoyarse) con un compañero e inmediatamente hacer un movimiento para desmarcarse y recibir perfilado.
+_Los volantes_: Si reciben de espaldas y tienen la marca encima, cuando estamos haciendo tenencia o haciendo circular la pelota, es mucho más seguro descargar hacia atrás (apoyarse) con un compañero e inmediatamente hacer un movimiento para desmarcarse y recibir perfilado.
 
-> Los Pases: Es importante dar pases firmes que garantizan que la pelota viaje segura, no sea interceptada y facilitan el control al compañero.
+> **_Los Pases_**: Es importante dar pases firmes que garantizan que la pelota viaje segura, no sea interceptada y facilitan el control al compañero.
 
 [![Video táctico](https://img.youtube.com/vi/OBWr4lBHb8s/sddefault.jpg)](https://www.youtube.com/watch?v=OBWr4lBHb8s&t=1m11s)
 
