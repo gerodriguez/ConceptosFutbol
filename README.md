@@ -64,7 +64,7 @@ Si se ataca por su lado puede:
   + Sin la pelota:
     - Pasar en velocidad (desdoblamiento) para desbordar.
 
-+ _Los laterales_: Cuando pasan al ataque lo hacen "de a uno a la vez", el del lado contrario al que pasa debe cerrarse para equilibrar la defensa. Comúnmente el desdoblamiento se hace por fuera, pero también se puede hacer (alguna vez y si la situación es favorable) en diagonal hacia adentro para sorprender. Al pasar al ataque es muy bueno que implementen al menos un amague por tiempo, ésto hace menos previsible el ataque, además el que los marca, no está esperando que un lateral haga un amague.
++ _Los laterales_: Cuando pasan al ataque deberán hacerlo "de a uno a la vez", el del lado contrario al que pasa debe cerrarse para equilibrar la defensa. Comúnmente el desdoblamiento se hace por fuera, pero también se puede hacer (alguna vez y si la situación es favorable) en diagonal hacia adentro para sorprender. Al pasar al ataque es muy bueno que implementen al menos un amague por tiempo, ésto hace menos previsible el ataque, además el que los marca, no está esperando que un lateral haga un amague.
 A la hora de volver, deben hacerlo por dentro, para cubrir la posibilidad de pases verticales y cubrir la posición del volante que hizo el relevo.
 
 > Al desbordar y tirar el centro atrás, el que viene a la carrera a rematar debe pegarle al arco **"a colocar"**, ya que tiende a elevarse mucho la pelota y sino esas jugadas terminan todas en el alambrado o en la popular. En este tipo de jugadas los arqueros suelen tener la visión tapada y quedar a contrapierna de la jugada, ésto aumenta la efectividad del tiro a colocar.
@@ -74,7 +74,7 @@ Hay que buscar **hacer paredes o pases rápidos a 1 o 2 toques** cambiando de ri
 
 [![Triangular](/imagenes/los-triangulos-en-el-futbol.png)](/imagenes/los-triangulos-en-el-futbol.png)
 
-- _Los puntas_: Deben hacer diagonales hacia adelante al espacio, generando la opción de un pase y cuidando el offside, para ésto deberán dar unos pasos hacia atrás antes de buscar una diagonal. Si descienden a recibir no deben hacerlo en línea recta (vertical), sino en una línea diagonal ya que ésto les permite recibir perfilados y con ventaja posicional, o aguantar la pelota para descargar con un compañero e ir a buscar una pared.
+- _Los puntas_: Deben hacer diagonales hacia adelante al espacio, generando la opción de un pase y cuidando el offside, para ésto deberán hacer un desmarque dando unos pasos hacia abajo antes de buscar una diagonal. Si descienden a recibir no deben hacerlo en línea recta (vertical) sino en una línea diagonal ya que ésto les permite recibir perfilados y con ventaja posicional, o aguantar la pelota para descargar con un compañero e ir a buscar una pared.
 
 - _Los volantes y/o el enganche_: Serán los principales encargados en hacer los cambios de ritmo o iniciar los pases rápidos y paredes necesarios para desequilibrar en ataque y avanzar por las zonas pobladas. Para ésto serán fundamentales los desmarques.
 
