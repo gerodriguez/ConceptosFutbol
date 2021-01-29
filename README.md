@@ -28,7 +28,7 @@ Utilizaremos un estilo de juego simple, sin complicarnos nosotros mismos, esto i
 
 ### Saque de Arco:
 Trataremos de salir jugando por abajo porque ésto permite estirar al equipo rival y aprovechar esos espacios. Pero NO siempre se podrá salir jugando por abajo, ya que puede q nos compliquemos sólos con pases entre los defensores o por la presión del rival. (Se irá decidiendo sobre la marcha).
-Si sacamos largo *HAY QUE IR A DISPUTAR LA PELOTA*, y sobre todo, **ir a la segunda jugada** (esto significa acercarse a la zona donde se disputa la pelota, para capturar un rebote, un rechazo o un pase de un compañero). Antes de que se efectúe el saque largo, la zona ya debe estar poblada por al menos 2 jugadores propios, preferentemente uno que va a ser quien dispute la pelota y otro quien reciba el pase.
+Si sacamos largo *HAY QUE IR A DISPUTAR LA PELOTA*, y sobre todo, **ir a la segunda jugada** (esto significa acercarse a la zona donde se disputa la pelota, para capturar un rebote, un rechazo o un pase de un compañero). Antes de que se efectúe el saque largo, debemos poblar la zona con al menos 2 jugadores propios, uno que va a ser quien dispute la pelota y otro quien reciba el pase.
 
 Cuando salimos jugando por abajo, si la pelota le llega al lateral y éste recibe sobre la raya, el volante de ese lado debe cerrarse y buscar el pase por dentro y el extremo de ese lado debe abrirse y buscar el pase por fuera. En cambio si el lateral recibe más hacia el centro, deben alternarse entre el volante y el extremo para quedar uno por fuera y otro por dentro.
 
@@ -86,6 +86,11 @@ Juego entre líneas:
 Opción de ataque directo:
 Una jugada muy simple de ataque y que puede generar mucho peligro es cuando un lateral o un volante da un pase hacia atrás (se apoya) en un volante central, y éste de primera mete un pase curvo detrás de la línea de defensores para que pique un punta.
 
+Jugada de saque lateral:
+Cuando tenemos un lateral cerca del área rival, una buena opción es lanzar un centro al área mediante un saque largo de lateral, uno nuestro se posiciona el el vertice del área chica o a la altura del primer palo, dependiendo del tamaño de la cancha y capacidad de saque largo del lanzador, y un segundo jugador se posiciona detrás del primero, aprox. en el punto de penal para aprovechar un pase de cabeza por parte del primero. Se hace el lateral para que el primero le peine la pelota al segundo quien debe "aparecer" para llegar antes que los defensores.
+Otra opción, clásica, es que uno se acerque al que saca el lateral y le devuelva la pelota para que el mismo qie saca el lateral haga un centro "de primera" con un poco de "rosca" para aprovechar que los defensores rivales están parados y alguno puede estar desatento.
+Personalmente prefiero que los laterales cerca del área rival los haga el volante de ese lado (para cuidar la defensa y estar mejor parados frente a un contraataque).
+
 > `Todos estos conceptos no van a salir bien las primeras veces, pero hay que intentarlo. No importa si sale mal la ejecución, pero hay que intentar aplicar el concepto y la idea de juego porque estoy convencido que de esa forma se logran buenos resultados.`
 
 [![Video Explicativo](https://img.youtube.com/vi/MhOd9V_Vxdc/sddefault.jpg)](https://youtu.be/MhOd9V_Vxdc)
@@ -112,6 +117,8 @@ Todas las líneas del equipo deben marcar, cada línea lo hará de la manera má
 Los laterales y volantes deben usar la raya a su favor para arrinconar al rival y **amagar para marcar**, sí, *AMAGAR PARA MARCAR*, ésto da muchas ventajas y fuerza el error rival casi sin esfuerzo.
 
 [![Análisis de defensa](https://img.youtube.com/vi/ZLwkAsEo62A/sddefault.jpg)](https://www.youtube.com/watch?v=ZLwkAsEo62A&t=39)
+
+A la hora de hacer un saque de lateral, tener en cuenta que siempre es más seguro que el saque sea hacia adelante o hacia atrás, pero cerca de la línea lateral, ya que si es hacia el centro de la cancha hay mayor riesgo de perder la pelota. También se debe tener en cuenta que debemos dársela a nuestro compañero de forma que le facilite el control, para que pueda resolver más rápido. Generalmente se le suele dar al muslo o al pie (siempre cuidando de no perder la postura correcta para sacar el lateral)
 
 > Trataremos de practicar la basculación y la "formación de batalla" antes de los partidos para ir incorporándola con práctica.
 
@@ -168,6 +175,10 @@ Consiste en presionar sobre la pelota inmediatamente después de perderla (6 seg
 
 [![Presión tras pérdida](https://img.youtube.com/vi/9iueNOuW1Rs/sddefault.jpg)](https://www.youtube.com/watch?v=9iueNOuW1Rs)
 
-> `Por último, y no menos importante...  En cancha de once, la pelota se para con el borde interno del pie (como hace Messi). El único que puede parar la pelota con la suela es aquel jugador que reciba CÓMODO de espalda.`
+> `Por último, y no menos importante...  En cancha de once, la pelota se para con el borde interno del pie (como hace Messi). Casi la única situación favorable para parar la pelota con la suela es cuando un jugador recibe CÓMODO de espalda.`
 
 ---
+
+## Información Adicional
+
+[Sitio externo - Mis entrenamientos de fútbol](https://www.misentrenamientosdefutbol.com/diccionario/conceptos-tacticos)
