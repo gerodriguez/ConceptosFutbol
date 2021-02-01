@@ -125,7 +125,7 @@ A la hora de hacer un saque de lateral, tener en cuenta que siempre es más segu
 ---
 
 ## TENENCIA DE PELOTA
-La tenencia además de posesión, da la posibilidad de descanzar con la pelota y cansar al rival mientras bascula y nos marca. Lo ideal será buscar un buen equilibrio entre tenencia práctica y ataque, considerando el cansancio general o el nivel de ahogo.
+La tenencia además de posesión, da la posibilidad de descanzar con la pelota mientras el rival se cansa basculando y marcándonos. Para que la tenencia sea práctica deberemos hacer circular la pelota buscando los momentos adecuados para camviar de ritmo y atacar o encontrar un pase vertical que nos permita generar un ataque. Lo ideal será buscar un buen equilibrio entre tenencia práctica y ataque, considerando el cansancio general o el nivel de ahogo.
 
 - _Volantes centrales (5)_: Es un puesto complejo y de los más importantes para un equipo. El juego pasará mayormente por ellos y serán los encargados de distribuir la pelota. Para ésto deben jugar simple minimizando errores y rotar el juego cuando una zona se encuentra muy cargada o poblada. La rotación del juego rápida aprovecha los espacios que quedan libres cuando el rival bascula y permite profundizar por esos espacios en el tiempo en que el rival tiene que volver a bascular hacia el lado en que se rotó la cancha.
 Responsabilidades:
@@ -141,16 +141,18 @@ Responsabilidades:
 
 - _Volantes y/o Enganche_: Si reciben de espaldas y tienen la marca encima, cuando estamos haciendo tenencia o haciendo circular la pelota, es mucho más seguro descargar hacia atrás (apoyarse) con un compañero e inmediatamente hacer un movimiento para desmarcarse y recibir perfilado hacia el arco rival.
 
-> **_Los Pases_**: Es importante dar pases firmes y al raz del piso que garantizan que la pelota viaje segura, no sea interceptada y facilitan el control al compañero.
+> **_Los Pases_**: Es importante dar pases firmes y al raz del piso para garantizar que la pelota viaje segura, no sea interceptada y facilite el control al compañero.
+
 
 [![Video táctico](https://img.youtube.com/vi/OBWr4lBHb8s/sddefault.jpg)](https://www.youtube.com/watch?v=OBWr4lBHb8s&t=1m11s)
+
 
 > `Es primordial que todos entiendan que los pases horizontales favorecen la presión del rival (sobre todo entre centrales o volantes centrales) y además causa errores no forzados. Por eso es importante colocarse en distintas líneas de profundidad`
 
 ---
 
 ## PRESION
-Como posicionamiento cuando el equipo rival tiene la pelota mantener una presión intermedia es lo que considero ideal ya que permite cerrarse a medias y esperar el error rival y ayuda a _no ahogarse_ ejerciendo presión alta ni obligar al rival al pelotazo, ya que después hay que lidiar con esos pelotazos y defenderlos.
+Como posicionamiento cuando el equipo rival tiene la pelota considero ideal ejercer una presión intermedia ya que permite cerrarse a medias y esperar el error rival y ayuda a _no ahogarse_ ejerciendo presión alta ni obligar al rival al pelotazo, ya que después hay que lidiar con esos pelotazos y defenderlos. Como concepto general, se aprovecha a presionar mientras la pelota viaja (o sea, mientras le llega el pase de un rival a otro).
 También habrá [**momentos de presión**](#momentos-de-presión). que se darán en el transcurso del partido y según las condiciones del juego.
 
 **Para ejercer la presión es primordial hacerla en conjunto (o bloque)**, (sino no tiene eficiencia), y aprovechando las **situaciones que favorecen la presión**:
