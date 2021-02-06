@@ -19,7 +19,7 @@ Es importante aclarar que no todo se hace al mismo ritmo.
 Personalmente me gustaría que el equipo sea solidario con los compañeros, tenga un arquero seguro, un central sólido que no falle, laterales que pasen al ataque, un cinco que se coma la cancha, volantes que lleguen al área rival y que hagan relevos, y un 9 que pueda resolver el sólo, alguna pelota aislada que le llegue.
 
 ### A que jugamos?
-Buscaremos ser un equipo protagonista que ejerce la [tenencia práctica](#tenencia-de-pelota), mantiene un estilo de juego simple que hace circular la pelota con triangulaciones y crea ataques con cambio de ritmo, pudiendo atacar [por el centro](#al-atacar-por-el-centro) **con paredes** o [por las bandas](#al-atacar-por-las-bandas) **con desbordes**. Manejar eficientemente la [presión](#presion) sobre el rival y montar una [defensa](#defensa) firme y versátil frente a las diferentes situaciones del partido.
+Buscaremos ser un equipo protagonista que ejerce la [tenencia práctica](#tenencia-de-pelota), mantiene un estilo de juego simple que hace circular la pelota con triangulaciones y crea ataques con cambio de ritmo, pudiendo atacar [por el centro](#al-atacar-por-el-centro) **con paredes** o [por las bandas](#al-atacar-por-las-bandas) **con desbordes**. Manejar eficientemente la [presión](#presion) sobre el rival y montar una [defensa](#defensa) firme y versátil frente a las diferentes situaciones del partido. 
 Aprovechar los [saques de arco](#saque-de-arco) propios de manera inteligente.
 
 ### Con la pelota:
