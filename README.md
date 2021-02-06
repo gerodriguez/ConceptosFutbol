@@ -1,5 +1,5 @@
 # Conceptos de Futbol
-Me decidí por plasmar algunas ideas en texto ya que ayudan a ordenarse, tener más claros y sintetizados los conceptos y además sirven como ayuda memoria.
+Inspirado por el profe Mauro Vidal de [Play Futbol FC](http://playfutbolfc.com.ar) y un curso de Fútbol que dictó durante el aislamiento total, me decidí por plasmar algunas ideas que rondan en mi cabeza, en texto ya que ayudan a ordenarse, tener más claros y sintetizados los conceptos y además sirven como ayuda memoria.
 
 ## INTRODUCCION
 Quiero comenzar por las bases y los conceptos y luego ir profundizando en los detalles de cada puesto.
@@ -125,7 +125,7 @@ A la hora de hacer un saque de lateral, tener en cuenta que siempre es más segu
 ---
 
 ## TENENCIA DE PELOTA
-La tenencia además de posesión, da la posibilidad de descanzar con la pelota mientras el rival se cansa basculando y marcándonos. Para que la tenencia sea práctica deberemos hacer circular la pelota buscando los momentos adecuados para camviar de ritmo y atacar o encontrar un pase vertical que nos permita generar un ataque. Lo ideal será buscar un buen equilibrio entre tenencia práctica y ataque, considerando el cansancio general o el nivel de ahogo.
+La tenencia además de posesión, da la posibilidad de descanzar con la pelota mientras el rival se cansa basculando y marcándonos. Para que la tenencia sea práctica deberemos hacer circular la pelota buscando los momentos adecuados para cambiar de ritmo y atacar o encontrar un pase vertical que nos permita generar un ataque. Lo ideal será buscar un buen equilibrio entre tenencia práctica y ataque, considerando el cansancio general o el nivel de ahogo.
 
 - _Volantes centrales (5)_: Es un puesto complejo y de los más importantes para un equipo. El juego pasará mayormente por ellos y serán los encargados de distribuir la pelota. Para ésto deben jugar simple minimizando errores y rotar el juego cuando una zona se encuentra muy cargada o poblada. La rotación del juego rápida aprovecha los espacios que quedan libres cuando el rival bascula y permite profundizar por esos espacios en el tiempo en que el rival tiene que volver a bascular hacia el lado en que se rotó la cancha.
 Responsabilidades:
