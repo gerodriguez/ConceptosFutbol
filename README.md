@@ -15,8 +15,8 @@ Jugar un torneo no es sólo ir a jugar con amigos, y hacer lo que nos sale, lo q
 ## IDEA DE JUEGO
 La idea es tener un equipo equilibrado y ordenado, ya que por más deficiencias técnicas o físicas que pueda tener un equipo, si se juega ordenado se le puede "hacer partido" a cualquiera. Se buscará usar la estrategia, la táctica y las capacidades grupales e individuales de los jugadores para sacar provecho en ataque y en defensa.
 
-Es importante aclarar que no todo se hace al mismo ritmo.
-Personalmente me gustaría que el equipo sea solidario con los compañeros, tenga un arquero seguro, un central sólido que no falle, laterales que pasen al ataque, un cinco que se coma la cancha, volantes que lleguen al área rival y que hagan relevos, y un 9 que pueda resolver el sólo, alguna pelota aislada que le llegue.
+Es importante aclarar que no todo se hace al mismo ritmo. Y que debemos entender el posicionamiento y desarrollo del juego dentro de la cancha, como un **_"juego de espacios"_**. Donde los espacios se abren, se cierran, se crean o se cubren con los movimientos propios y del rival.
+Personalmente me gustaría que el equipo sea solidario con los compañeros, tenga un arquero que brinde cierta seguridad, un central sólido que no falle, laterales que pasen al ataque, un cinco que se coma la cancha, volantes que lleguen al área rival y que hagan relevos, y un 9 que pueda resolver el sólo, alguna pelota aislada que le llegue.
 
 ### A que jugamos?
 Buscaremos ser un equipo protagonista que ejerce la [tenencia práctica](#tenencia-de-pelota), mantiene un estilo de juego simple que hace circular la pelota con triangulaciones y crea ataques con cambio de ritmo, pudiendo atacar [por el centro](#al-atacar-por-el-centro) **con paredes** o [por las bandas](#al-atacar-por-las-bandas) **con desbordes**. Manejar eficientemente la [presión](#presion) sobre el rival y montar una [defensa](#defensa) firme y versátil frente a las diferentes situaciones del partido. 
