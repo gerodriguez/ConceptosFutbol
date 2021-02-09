@@ -67,7 +67,7 @@ Si se ataca por su lado puede:
 + _Los laterales_: Cuando pasan al ataque deberán hacerlo "de a uno a la vez", el del lado contrario al que pasa debe cerrarse para equilibrar la defensa. Comúnmente el desdoblamiento se hace por fuera, pero también se puede hacer (alguna vez y si la situación es favorable) en diagonal hacia adentro para sorprender. Al pasar al ataque es muy bueno que implementen al menos un amague por tiempo, ésto hace menos previsible el ataque, además el que los marca, no está esperando que un lateral haga un amague.
 A la hora de volver, deben hacerlo por dentro, para cubrir la posibilidad de pases verticales y cubrir la posición del volante que hizo el relevo.
 
-> Al desbordar y tirar el centro atrás, el que viene a la carrera a rematar debe pegarle al arco **"a colocar"**, ya que tiende a elevarse mucho la pelota y sino esas jugadas terminan todas en el alambrado o en la popular. En este tipo de jugadas los arqueros suelen tener la visión tapada y quedar a contrapierna de la jugada, ésto aumenta la efectividad del tiro a colocar.
+> Al desbordar y tirar el centro atrás, el que viene a la carrera a rematar debe pegarle al arco **"a colocar"**, ya que en esas jugadas tiende a elevarse mucho la pelota y sino terminan todas en el alambrado o en la popular. En este tipo de jugadas los arqueros suelen tener la visión tapada y quedar a contrapierna de la jugada, ésto aumenta la efectividad del tiro a colocar.
 
 ### Al atacar por el CENTRO:
 Hay que buscar **hacer paredes o pases rápidos a 1 o 2 toques** cambiando de ritmo y triangulando para avanzar entre los rivales, porque hay mucha gente en esa zona y la mayoría dedicados a marcar. Para poder progresar por esta zona es importante ubicarse en la cancha "distintas líneas de profundidad" para obtener profundidad con los pases e intentar aprovechar los triangulos que se forman entre nuestros jugadores.
@@ -83,12 +83,21 @@ Hay que buscar **hacer paredes o pases rápidos a 1 o 2 toques** cambiando de ri
 Juego entre líneas:
 [![Como triangula y juega entre líneas Kevin De Bryune](https://img.youtube.com/vi/j9QzPIvX4jw/sddefault.jpg)](https://youtu.be/j9QzPIvX4jw)
 
+
+Cuando se recibe de espaldas cerca del arco rival, se debe priorizar dar un pase hacia atrás para algún compañero que venga de frente para rematar, si esa opción no es posible, se puede buscar darse vuelta para rematar, será necesario hacer un buen uso del cuerpo para proteger la pelota y en todo caso provocar una falta del rival.
+
+Construcción de ataque "de futsal" (Paso y Pego):
+Esta jugada la protagonizan 2 jugadores. El jugador n°2 debe estar cerca del area rival de espaldas al arco con su marca, y el jugador n°1 de frente al 2 a unos metros. El jugador 1 tiene la pelota y debe pasarle la pelota al 2 para que la aguante. El 1 tiene que ir recto hacia donde está el 2.
+La jugada se definirá por indicación del jugador 1 con una palabra que deberá elegir según las circunstancias y espacio disponible.
+- Si dice "Pego", entonces el 2 le deja la pelota "muerta" al 1 y aguanta la marca para que el 1 remate.
+- Si dice "Paso", entonces el 2 le pisa la pelota hacia atras para que el 1 pase por el costado y avance hacia el arco.
+
 Opción de ataque directo:
 Una jugada muy simple de ataque y que puede generar mucho peligro es cuando un lateral o un volante da un pase hacia atrás (se apoya) en un volante central, y éste de primera mete un pase curvo detrás de la línea de defensores para que pique un punta.
 
 Jugada de saque lateral:
-Cuando tenemos un lateral cerca del área rival, una buena opción es lanzar un centro al área mediante un saque largo de lateral, uno nuestro se posiciona el el vertice del área chica o a la altura del primer palo, dependiendo del tamaño de la cancha y capacidad de saque largo del lanzador, y un segundo jugador se posiciona detrás del primero, aprox. en el punto de penal para aprovechar un pase de cabeza por parte del primero. Se hace el lateral para que el primero le peine la pelota al segundo quien debe "aparecer" para llegar antes que los defensores.
-Otra opción, clásica, es que uno se acerque al que saca el lateral y le devuelva la pelota para que el mismo qie saca el lateral haga un centro "de primera" con un poco de "rosca" para aprovechar que los defensores rivales están parados y alguno puede estar desatento.
+Cuando tenemos un lateral cerca del área rival, una buena opción es lanzar un centro al área mediante un saque largo de lateral, un jugador nuestro se posiciona en el vertice del área chica o a la altura del primer palo (dependiendo del tamaño de la cancha y capacidad de saque largo del lanzador) y un segundo jugador se posiciona detrás del primero, aprox. en el punto de penal para aprovechar un pase de cabeza por parte del primero. Se hace el lateral para que el primero le peine la pelota al segundo quien debe "aparecer" para llegar antes que los defensores.
+Otra opción, clásica, es que uno se acerque al que saca el lateral y le devuelva la pelota para que el mismo que saca el lateral haga un centro "de primera" con un poco de "rosca" para aprovechar que los defensores rivales están parados y alguno puede estar desatento.
 Personalmente prefiero que los laterales cerca del área rival los haga el volante de ese lado (para cuidar la defensa y estar mejor parados frente a un contraataque).
 
 > `Todos estos conceptos no van a salir bien las primeras veces, pero hay que intentarlo. No importa si sale mal la ejecución, pero hay que intentar aplicar el concepto y la idea de juego porque estoy convencido que de esa forma se logran buenos resultados.`
