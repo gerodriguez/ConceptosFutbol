@@ -1,9 +1,11 @@
 # Conceptos de Futbol
-Inspirado por el profe Mauro Vidal de [Play Futbol FC](http://playfutbolfc.com.ar) y un curso de Fútbol que dictó durante el aislamiento total, me decidí por plasmar algunas ideas que rondan en mi cabeza, en texto ya que ayudan a ordenarse, tener más claros y sintetizados los conceptos y además sirven como ayuda memoria.
+Inspirado por el profe. Mauro Vidal de [Play Futbol FC](http://playfutbolfc.com.ar) y un curso de fútbol que dictó durante el aislamiento total, me decidí por plasmar en texto algunas ideas que rondan en mi cabeza, ya que ayudan a ordenarse, tener más claros y sintetizados los conceptos y además sirven como ayuda memoria.
 
 ## INTRODUCCION
 Quiero comenzar por las bases y los conceptos y luego ir profundizando en los detalles de cada puesto.
+
 Para competir en un torneo, los jugadores tienen que hacer lo necesario para que el equipo funcione, deben tomárselo en serio, concentrarse y tener comportamiento individual y conjunto para el buen funcionamiento del equipo, ésto requiere adoptar una mentalidad abierta y de progreso, disposición para recibir y seguir indicaciones, y dedicación por el equipo. Una vez adoptada esta actitud se llega a un alto nivel cuando se logra tomar decisiones teniendo en cuenta la posición o ubicación de los compañeros llevando a cabo indicaciones e implementando la idea de juego planteada.
+
 Ésto es el fútbol a nivel competitivo y eso no lo hace menos divertido, también se puede encontrar diversión y sobretodo satisfacción en ello, no hay mejor satisfacción que sentir que uno forma parte de un equipo que trabaja bien y se lo toma en serio, y que sigue un sistema de juego y aplica un criterio futbolístico compartido mas allá de los resultados obtenidos; Porque eso te marca la pauta de que crece el espíritu del equipo, se juega más cómodo y los resultados se darán solos.
 
 Jugar un torneo no es sólo ir a jugar con amigos, y hacer lo que nos sale, lo que siempre hicimos o lo que nos pinta... Para eso está el fútbol recreativo de la semana.
@@ -78,25 +80,25 @@ Hay que buscar **hacer paredes o pases rápidos a 1 o 2 toques** cambiando de ri
 
 - _Los volantes y/o el enganche_: Serán los principales encargados en hacer los cambios de ritmo o iniciar los pases rápidos y paredes necesarios para desequilibrar en ataque y avanzar por las zonas pobladas. Para ésto serán fundamentales los desmarques.
 
+### Desmarques:
 [![Desmarques](https://img.youtube.com/vi/7th6EtgqZGo/sddefault.jpg)](https://youtu.be/7th6EtgqZGo)
 
-Juego entre líneas:
+### Juego entre líneas:
 [![Como triangula y juega entre líneas Kevin De Bryune](https://img.youtube.com/vi/j9QzPIvX4jw/sddefault.jpg)](https://youtu.be/j9QzPIvX4jw)
-
 
 Cuando se recibe de espaldas cerca del arco rival, se debe priorizar dar un pase hacia atrás para algún compañero que venga de frente para rematar, si esa opción no es posible, se puede buscar darse vuelta para rematar, será necesario hacer un buen uso del cuerpo para proteger la pelota y en todo caso provocar una falta del rival.
 
-Construcción de ataque "de futsal" (Paso y Pego):
+### Construcción de ataque "de futsal" (Paso y Pego):
 Esta jugada la protagonizan 2 jugadores. El jugador n°2 debe estar cerca del area rival de espaldas al arco con su marca, y el jugador n°1 de frente al 2 a unos metros. El jugador 1 tiene la pelota y debe pasarle la pelota al 2 para que la aguante. El 1 tiene que ir recto hacia donde está el 2.
 La jugada se definirá por indicación del jugador 1 con una palabra que deberá elegir según las circunstancias y espacio disponible.
 - Si dice "Pego", entonces el 2 le deja la pelota "muerta" al 1 y aguanta la marca para que el 1 remate.
 - Si dice "Paso", entonces el 2 le pisa la pelota hacia atras para que el 1 pase por el costado y avance hacia el arco.
 
-Opción de ataque directo:
+### Opción de ataque directo:
 Una jugada muy simple de ataque y que puede generar mucho peligro es cuando un lateral o un volante da un pase hacia atrás (se apoya) en un volante central, y éste de primera mete un pase curvo detrás de la línea de defensores para que pique un punta.
 
-Jugada de saque lateral:
-Cuando tenemos un lateral cerca del área rival, una buena opción es lanzar un centro al área mediante un saque largo de lateral, un jugador nuestro se posiciona en el vertice del área chica o a la altura del primer palo (dependiendo del tamaño de la cancha y capacidad de saque largo del lanzador) y un segundo jugador se posiciona detrás del primero, aprox. en el punto de penal para aprovechar un pase de cabeza por parte del primero. Se hace el lateral para que el primero le peine la pelota al segundo quien debe "aparecer" para llegar antes que los defensores.
+### Jugada de saque lateral:
+Cuando tenemos un lateral cerca del área rival, una buena opción es lanzar un centro al área mediante un saque largo de lateral, un jugador nuestro se posiciona en el vertice del área chica o a la altura del primer palo (dependiendo del tamaño de la cancha y capacidad de saque largo del lanzador) y un segundo jugador se posiciona detrás del primero, aprox. en el punto de penal para aprovechar un pase de cabeza por parte del primero. Se hace el lateral largo para que el primero le peine la pelota al segundo quien debe "aparecer" en la zoba donde caiga la pelota para llegar antes que los defensores.
 Otra opción, clásica, es que uno se acerque al que saca el lateral y le devuelva la pelota para que el mismo que saca el lateral haga un centro "de primera" con un poco de "rosca" para aprovechar que los defensores rivales están parados y alguno puede estar desatento.
 Personalmente prefiero que los laterales cerca del área rival los haga el volante de ese lado (para cuidar la defensa y estar mejor parados frente a un contraataque).
 
@@ -107,19 +109,19 @@ Personalmente prefiero que los laterales cerca del área rival los haga el volan
 ---
 
 ## DEFENSA
-El equipo debe bascular para el lado en que se encuentra la pelota. Ésto significa acercarse a la zona donde está la pelota, para cerrar los espacios y generar superioridad numérica.
+Para cerrarle los espacios al rival, el equipo debe bascular para el lado en que se encuentra la pelota. Ésto significa acercarse a la zona donde está la pelota, para cerrar los espacios y generar superioridad numérica.
 
 [![Basculación](https://img.youtube.com/vi/yEmI6Bm3-lk/sddefault.jpg)](https://www.youtube.com/watch?v=yEmI6Bm3-lk)
 
-Todas las líneas del equipo deben marcar, cada línea lo hará de la manera más eficiente.
+Todas las líneas del equipo deben marcar, pero cada línea lo deberá hacer de la manera más eficiente:
 
 - _Delanteros_: La forma de marcar debe ser cerrando líneas de pase, sobre todo por el centro. Porque los pases que adquieren profundidad por el centro (pases verticales) generan peligro y rompen la presión. Cuando el rival mueva la pelota entre sus defensores los delanteros deberán marcar "barriendo" las líneas de pase por el centro, formando una trayectoria con forma de "abanico".
 
 - _Volantes_: Toman marca en zona y a cierta distancia del rival, no al hombre.
   + _Volantes centrales (5)_: Además de ocuparse del mediocampo, deberán vigilar atentamente su espalda para mitigar posibles pases del rival a esa peligrosa zona.
 
-- _Defensores_: También marcan en zona, pero toman marca al hombre de cerca y deben asegurarse de que tengamos superioridad numérica. Individualmente, cuanto más cerca del arco propio estén, más cerca deberán tomar la marca. Colectivanente deben hacer de cuenta que son una _"formación de batalla romana"_ **manejando los espacios** entre los que defienden.
-  + _Centrales_: Ante el pelotazo, debe ir uno sólo a disputar la pelota y el otro sobrar por la posible perdida del que fue a disputar.
+- _Defensores_: También marcan en zona, pero por momentos toman marca al hombre de cerca y deben asegurarse de que tengamos superioridad numérica. Individualmente, cuanto más cerca del arco propio estén, más cerca deberán tomar la marca. Colectivanente deben hacer de cuenta que son una _"formación de batalla romana"_ **manejando los espacios** entre los que defienden.
+  + _Centrales_: Ante el pelotazo, debe ir uno sólo a disputar la pelota y el otro sobrar por la posible pérdida del que fue a disputar.
 
 [![Movimientos de la defensa](https://img.youtube.com/vi/pJwsAOfpOFI/sddefault.jpg)](https://youtu.be/pJwsAOfpOFI)
 
@@ -127,9 +129,13 @@ Los laterales y volantes deben usar la raya a su favor para arrinconar al rival 
 
 [![Análisis de defensa](https://img.youtube.com/vi/ZLwkAsEo62A/sddefault.jpg)](https://www.youtube.com/watch?v=ZLwkAsEo62A&t=39)
 
+### Saques laterales:
 A la hora de hacer un saque de lateral, tener en cuenta que siempre es más seguro que el saque sea hacia adelante o hacia atrás, pero cerca de la línea lateral, ya que si es hacia el centro de la cancha hay mayor riesgo de perder la pelota. También se debe tener en cuenta que debemos dársela a nuestro compañero de forma que le facilite el control, para que pueda resolver más rápido. Generalmente se le suele dar al muslo o al pie (siempre cuidando de no perder la postura correcta para sacar el lateral)
 
-> Trataremos de practicar la basculación y la "formación de batalla" antes de los partidos para ir incorporándola con práctica.
+### Despejes:
+Lo ideal es hacer **_despejes orientados_**, esto consiste en ubicar 1 o 2 jugadores a la altura de la mitad de cancha abierto contra la raya. Cualquier despeje que se haga desde el área propia debe ser orientado hacia el lado en que se ubicó a ese o esos jugadores. Todo jugador que esté defendiendo (por ej. un córner o una pelota parada), ya sea delantero o volante, tiene que saber hacia donde debe despejar
+
+> Idealmente trataremos de practicar la basculación y la "formación de batalla" antes de los partidos (en espacios más reducidos) para ir incorporándola con práctica.
 
 ---
 
@@ -150,7 +156,7 @@ Responsabilidades:
 
 - _Volantes y/o Enganche_: Si reciben de espaldas y tienen la marca encima, cuando estamos haciendo tenencia o haciendo circular la pelota, es mucho más seguro descargar hacia atrás (apoyarse) con un compañero e inmediatamente hacer un movimiento para desmarcarse y recibir perfilado hacia el arco rival.
 
-> **_Los Pases_**: Es importante dar pases firmes y al raz del piso para garantizar que la pelota viaje segura, no sea interceptada y facilite el control al compañero.
+> **_Los Pases_**: Es importante dar pases firmes y al raz del piso para garantizar que la pelota viaje segura, no sea interceptada y que facilite el control al compañero.
 
 
 [![Video táctico](https://img.youtube.com/vi/OBWr4lBHb8s/sddefault.jpg)](https://www.youtube.com/watch?v=OBWr4lBHb8s&t=1m11s)
@@ -164,7 +170,9 @@ Responsabilidades:
 Como posicionamiento cuando el equipo rival tiene la pelota considero ideal ejercer una presión intermedia ya que permite cerrarse a medias y esperar el error rival y ayuda a _no ahogarse_ ejerciendo presión alta ni obligar al rival al pelotazo, ya que después hay que lidiar con esos pelotazos y defenderlos. Como concepto general, se aprovecha a presionar mientras la pelota viaja (o sea, mientras le llega el pase de un rival a otro).
 También habrá [**momentos de presión**](#momentos-de-presión). que se darán en el transcurso del partido y según las condiciones del juego.
 
-**Para ejercer la presión es primordial hacerla en conjunto (o bloque)**, (sino no tiene eficiencia), y aprovechando las **situaciones que favorecen la presión**:
+> **Para ejercer la presión es primordial hacerla en conjunto (o bloque)**, (sino, no es eficiente) y aorovechando las situaciones del rival que favorecen la presión.
+
+### Situaciones que favorecen la presión:
 - Pases horizontales
 - Repetición (devolución) de pases entre 2 jugadores
 - Mal control de pelota
@@ -179,14 +187,16 @@ Salir a presionar no significa salir corriendo como loco contra el rival, ya que
 
 ### Momentos de presión:
 Los momentos de presión se dan con algunas de las situaciones del rival que favorecen la presión y consisten en ejercer una presión mayor a la establecida como idea de juego.
-Personalmente prefiero que sean comandados por jugadores que puedan leer estas situaciones favorables en el juego y dar una voz de aviso para que todo el bloque haga la presión coordinada. De mi preferencia estos jugadores son los volantes centrales (5) o los defensores centrales.
+Personalmente prefiero que sean comandados por jugadores que puedan leer estas situaciones favorables en el juego y dar una voz de aviso (o de mando) para que todo el bloque haga la presión coordinada. De mi preferencia estos jugadores son los volantes centrales (5) o los defensores centrales.
 
 ### Presión tras pérdida:
-Consiste en presionar sobre la pelota inmediatamente después de perderla (6 segundos de presión máxima y coordinada de los que están en la zona donde se encuentra la pelota) para quitarle al rival la posibilidad de armar juego, incomodarlo, obligarlo a jugar hacia atrás o incluso tener la posibilidad de volver a recuperar la pelota.
+Consiste en presionar sobre la pelota inmediatamente después de perderla, aprox. 6 segundos de presión máxima y coordinada de los que están en la zona cercana donde se encuentra la pelota, para quitarle al rival la posibilidad de armar juego, incomodarlo, obligarlo a jugar hacia atrás o incluso tener la posibilidad de volver a recuperar la pelota.
 
 [![Presión tras pérdida](https://img.youtube.com/vi/9iueNOuW1Rs/sddefault.jpg)](https://www.youtube.com/watch?v=9iueNOuW1Rs)
 
-> `Por último, y no menos importante...  En cancha de once, la pelota se para con el borde interno del pie (como hace Messi). Casi la única situación favorable para parar la pelota con la suela es cuando un jugador recibe CÓMODO de espalda.`
+---
+
+> `Por último, y no menos importante...  En cancha de 11, la pelota se para con el borde interno del pie (como hace Messi). Casi la única situación favorable como para parar la pelota con la suela es cuando un jugador recibe CÓMODO de espalda.`
 
 ---
 
