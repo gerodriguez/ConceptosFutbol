@@ -1,5 +1,6 @@
-# Conceptos de Futbol
-Inspirado por el profe. Mauro Vidal de [Play Futbol FC](http://playfutbolfc.com.ar) y un curso de fútbol que dictó durante el aislamiento total, me decidí por plasmar en texto algunas ideas que rondan en mi cabeza, ya que ayudan a ordenarse, tener más claros y sintetizados los conceptos y además sirven como ayuda memoria.
+# Conceptos de Futbol y apreciaciones personales.
+
+Me decidí por atender un poco la teoría del fútbol, inspirado por el profe. Mauro Vidal de [Play Futbol FC](http://playfutbolfc.com.ar) y un curso de fútbol que dictó durante el aislamiento total, me animé a plasmar en texto algunas ideas que rondan en mi cabeza, ya que ayudan a ordenarse, tener más claros y sintetizados los conceptos y además sirven como ayuda memoria.
 
 ## INTRODUCCION
 Quiero comenzar por las bases y los conceptos y luego ir profundizando en los detalles de cada puesto.
@@ -203,3 +204,6 @@ Consiste en presionar sobre la pelota inmediatamente después de perderla, aprox
 ## Información Adicional
 
 [Sitio externo - Mis entrenamientos de fútbol](https://www.misentrenamientosdefutbol.com/diccionario/conceptos-tacticos)
+
+## Autor
+Germán Rodriguez
