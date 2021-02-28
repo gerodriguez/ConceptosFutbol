@@ -47,10 +47,10 @@ Para construír los ataques se suele diferenciar entre ataques por el centro y p
 ### Al atacar por las BANDAS:
 Hay que buscar hacerle llegar la pelota a los extremos en posición favorable o buscar el desdoblamiento de los volantes con los extremos, o los laterales con los volantes.
 
-+ _Los extremos_: cuando reciben la pelota tienen q ir para adelante, encarar al defensor, desbordarlos por fuera o por dentro, o tocar y picar al espacio, pero casi siempre deben ir para adelante y jugar el 1 vs. 1 contra el lateral rival para profundizar. También cuando se dé la posibilidad, pueden buscar el desdoblamiento del volante que pasa en velocidad facilitando el avance. Todo ésto desgasta mucho a los defensores rivales e inclina la cancha a favor.
++ _Los extremos_: La idea es que arranquen desde afuera hacia adentro. Cuando reciben la pelota tienen que ir para adelante, encarar al defensor, desbordarlos por fuera o por dentro, o tocar y picar al espacio, pero casi siempre deben ir para adelante y jugar el 1 vs. 1 contra el lateral rival para profundizar. También cuando se dé la posibilidad, pueden buscar el desdoblamiento del volante que pasa en velocidad facilitando el avance. Todo ésto desgasta mucho a los defensores rivales e inclina la cancha a favor.
 Al desbordar con éxito al defensor se produce un desequilibrio que se puede aprovechar:
   - Dando un pase al medio para los puntas.
-  - Llegando al fondo y tirando el centro (al primer palo si llega un compañero, hacia atrás, o pasado al segundo palo; al medio del área no, xq va a estar muy poblada).
+  - Llegando al fondo y tirando el centro (al primer palo si llega un compañero, hacia atrás, o pasado al segundo palo).
   - Avanzar hacia dentro del área, buscando el arco o una falta.
 
   Si reciben en la banda a la altura del área, un centro rápido es una buena opción para sorprender.
@@ -88,6 +88,9 @@ Hay que buscar **hacer paredes o pases rápidos a 1 o 2 toques** cambiando de ri
 [![Como triangula y juega entre líneas Kevin De Bryune](https://img.youtube.com/vi/j9QzPIvX4jw/sddefault.jpg)](https://youtu.be/j9QzPIvX4jw)
 
 Cuando se recibe de espaldas cerca del arco rival, se debe priorizar dar un pase hacia atrás para algún compañero que venga de frente para rematar, si esa opción no es posible, se puede buscar darse vuelta para rematar, será necesario hacer un buen uso del cuerpo para proteger la pelota y en todo caso provocar una falta del rival.
+
+> Hay un viejo dicho que dice: **"Dentro del área, siempre hay tiempo"**. Nos refiere a no apurarnos para resolver dentro del área rival, ya que es el rivak el que tiene el apuro por sacar la pelota para que no le hagan el gol.
+
 
 ### Construcción de ataque "de futsal" (Paso y Pego):
 Esta jugada la protagonizan 2 jugadores. El jugador n°2 debe estar cerca del area rival de espaldas al arco con su marca, y el jugador n°1 de frente al 2 a unos metros. El jugador 1 tiene la pelota y debe pasarle la pelota al 2 para que la aguante. El 1 tiene que ir recto hacia donde está el 2.
@@ -176,7 +179,7 @@ También habrá [**momentos de presión**](#momentos-de-presión). que se darán
 ### Situaciones que favorecen la presión:
 - Pases horizontales
 - Repetición (devolución) de pases entre 2 jugadores
-- Mal control de pelota
+- Mal control de pelota, o demora en el control
 - Jugador mal perfilado
 - Jugador aislado (no tiene compañeros cerca a los que les pueda dar un pase cómodo)
 - Jugada acorralada contra la banda
@@ -197,13 +200,29 @@ Consiste en presionar sobre la pelota inmediatamente después de perderla, aprox
 
 ---
 
+## PICARDIAS
+
+### Defensores:
++ Desconcentrar al delantero rival tanteándolo con la mano, volviendose molesto para éste.
++ Pisarle el talón al delantero de espaldas para que se le salga el botín (se puede lograr incluso que amonesten al jugador por participar de una jugada sin un botín).
++ Frenar con el brazo al delantero que está sin pelota antes de que se lance a correr.
+
+### Delanteros:
++ Empujar al defensor previo a dar un paso hacia atrás para recibir la pelota.
+
+
+---
+
 > `Por último, y no menos importante...  En cancha de 11, la pelota se para con el borde interno del pie (como hace Messi). Casi la única situación favorable como para parar la pelota con la suela es cuando un jugador recibe CÓMODO de espalda.`
 
 ---
 
 ## Información Adicional
 
-[Sitio externo - Mis entrenamientos de fútbol](https://www.misentrenamientosdefutbol.com/diccionario/conceptos-tacticos)
+Sitios externos:
+
+[Mis entrenamientos de fútbol](https://www.misentrenamientosdefutbol.com/diccionario/conceptos-tacticos)
+[Play Futbol FC](http://playfutbolfc.com.ar)
 
 ## Autor
 Germán Rodriguez
