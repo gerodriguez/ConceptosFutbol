@@ -79,7 +79,7 @@ Si se ataca por su lado puede:
   + Sin la pelota:
     - Pasar en velocidad (desdoblamiento) para desbordar.
 
-+ _Los laterales_: Cuando pasan al ataque deberán hacerlo "de a uno a la vez", el del lado contrario al que pasa debe cerrarse para equilibrar la defensa. Comúnmente el desdoblamiento se hace por fuera, pero también se puede hacer (alguna vez y si la situación es favorable) en diagonal hacia adentro para sorprender. Al pasar al ataque es muy bueno que implementen al menos un amague por tiempo, ésto hace menos previsible el ataque, además el que los marca, no está esperando que un lateral haga un amague.
++ _Los laterales_: Cuando pasan al ataque deberán hacerlo "de a uno a la vez" y el del lado contrario al que pasa debe cerrarse para equilibrar la defensa. A menos que haya un volante de marca que se ubique entre los centrales y sea éste quien equilibre la defensa, en ese caso sí pueden pasar al ataque ambos centrales. Comúnmente el desdoblamiento se hace por fuera, pero también se puede hacer (alguna vez y si la situación es favorable) en diagonal hacia adentro para sorprender. Al pasar al ataque es muy bueno que implementen al menos un amague por tiempo, ésto hace menos previsible el ataque, además el que los marca, no está esperando que un lateral haga un amague.
 A la hora de volver, deben hacerlo por dentro, para cubrir la posibilidad de pases verticales y cubrir la posición del volante que hizo el relevo.
 
 > Al desbordar y tirar el centro atrás, el que viene a la carrera a rematar debe pegarle al arco **"a colocar"**, ya que en esas jugadas tiende a elevarse mucho la pelota y sino terminan todas en el alambrado o en la popular. En este tipo de jugadas los arqueros suelen tener la visión tapada y quedar a contrapierna de la jugada, ésto aumenta la efectividad del tiro a colocar.
@@ -101,7 +101,7 @@ Hay que buscar **hacer paredes o pases rápidos a 1 o 2 toques** cambiando de ri
 
 Cuando se recibe de espaldas cerca del arco rival, se debe priorizar dar un pase hacia atrás para algún compañero que venga de frente para rematar, si esa opción no es posible, se puede buscar darse vuelta para rematar, será necesario hacer un buen uso del cuerpo para proteger la pelota y en todo caso provocar una falta del rival.
 
-> Hay un viejo dicho que dice: **"Dentro del área, siempre hay tiempo"**. Nos refiere a no apurarnos para resolver dentro del área rival, ya que es el rivak el que tiene el apuro por sacar la pelota para que no le hagan el gol.
+> Hay un viejo dicho que dice: **"Dentro del área, siempre hay tiempo"**. Nos refiere a no apurarnos para resolver dentro del área rival, ya que es el rival el que tiene el apuro por sacar la pelota para que no le hagan el gol.
 
 
 ### Construcción de ataque "de futsal" (Paso y Pego):
@@ -168,7 +168,7 @@ Responsabilidades:
   Algunas veces para salir jugando desde el arco, se acude a que baje el 5 entre los centrales y se acerque a la zona de la pelota (para ésto los defensores deberán abrirse y ser opción de pase). Es importante que el 5 cuando reciba se perfile bien, de frente a la cancha, para aprovechar ese movimiento para avanzar o armar juego. Las opciones de pase inmediatas que tiene serán los laterales o los volantes.
   Una característica clave del volante central es que debe estar mirando a su alrededor todo el tiempo, ésto le da la posibilidad de ubicarse mejor para recibir la pelota y la capacidad de observar la ubicación de los contrarios y los compañeros (por ésto también se vuelve clave para ser voz de mando a la hora de ordenar al equipo o indicar cuando presionar, etc).
 
-- _Laterales_: Al recibir la pelota deben hacerlo perfilados con la cola hacia la raya y recibiendo la pelota con la cancha de frente, ésto permite avanzar o armar juego en menos tiempo, facilitando el avance. Cuando reciben luego de una rotación del juego, es preferible (en lo posible) ir hacia adelante y no volver a jugar con los centrales.
+- _Laterales_: Al recibir la pelota deben hacerlo perfilados con la cola hacia la raya y recibiendo la pelota con la cancha de frente, ésto permite avanzar o armar juego en menos tiempo, facilitando el avance. Cuando reciben luego de una rotación del juego, es preferible (en lo posible) ir hacia adelante y no volver a jugar con los centrales, porque es probable que la pelota viaje más rápido de un lado a otro de la cancha que los rivales, logrando así romper la presión rival antes de que basculen.
 
 - _Volantes y/o Enganche_: Si reciben de espaldas y tienen la marca encima, cuando estamos haciendo tenencia o haciendo circular la pelota, es mucho más seguro descargar hacia atrás (apoyarse) con un compañero e inmediatamente hacer un movimiento para desmarcarse y recibir perfilado hacia el arco rival.
 
