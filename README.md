@@ -2,6 +2,18 @@
 
 Me decidí por atender un poco la teoría del fútbol, inspirado por el profe. Mauro Vidal de [Play Futbol FC](http://playfutbolfc.com.ar) y un curso de fútbol que dictó durante el aislamiento total, me animé a plasmar en texto algunas ideas que rondan en mi cabeza, ya que ayudan a ordenarse, tener más claros y sintetizados los conceptos y además sirven como ayuda memoria.
 
+[//]: # (Cambios de frente: herr. muy imp. para mover al eq rival y encontrar espacios)
+[//]: # (BPD, BPO)
+[//]: # (Jugadas preestablecidas)
+[//]: # (Gambetear: hay jug. q pueden hacerlo. en el centro, evluar q pasa con el resto del equipo.)
+[//]: # (Extremos: centro atrás y llegadas de volantes al área.)
+[//]: # (Presión: Que hace el equipo cuando recupera la pelota.)
+[//]: # (Pasar laterales al ataque si hay un 5 en equilibrio.)
+[//]: # (Desmarques: eq. rival está cerrado, habilitación con juego aéreo. Puntas: pivotear y habilitar a volantes)
+[//]: # (Enganche: Capacidad de Remate. Tener Gol.)
+[//]: # (Defensivo: Siempre perfilados, cobertura, anticipo, cerrar con la pierna correcta.)
+
+
 ## INTRODUCCION
 Quiero comenzar por las bases y los conceptos y luego ir profundizando en los detalles de cada puesto.
 
