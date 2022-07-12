@@ -5,7 +5,7 @@ Me decidí por atender un poco la teoría del fútbol, inspirado por el profe. M
 [//]: # (Cambios de frente: herr. muy imp. para mover al eq rival y encontrar espacios)
 [//]: # (BPD, BPO)
 [//]: # (Jugadas preestablecidas)
-[//]: # (Gambetear: hay jug. q pueden hacerlo. en el centro, evluar q pasa con el resto del equipo.)
+[//]: # (Gambetear: hay jug. q pueden hacerlo. en el centro, evaluar q pasa con el resto del equipo.)
 [//]: # (Extremos: centro atrás y llegadas de volantes al área.)
 [//]: # (Presión: Que hace el equipo cuando recupera la pelota.)
 [//]: # (Pasar laterales al ataque si hay un 5 en equilibrio.)
@@ -23,14 +23,16 @@ Para competir en un torneo, los jugadores tienen que hacer lo necesario para que
 
 Jugar un torneo no es sólo ir a jugar con amigos, y hacer lo que nos sale, lo que siempre hicimos o lo que nos pinta... Para eso está el fútbol recreativo de la semana.
 
-> Les pido que tengan en cuenta muy en serio estas palabras y las tomen a modo de estudio y aprendizaje, ya que no es posible juntarse a entrenar o practicar en la semana, pero les aseguro que si siguen estas indicaciones y adoptan esta actitud, a medida que salgan algunas cosas se van a sentir mucho más cómodos en la cancha.
+> La idea principal para un equipo amateur, sería adoptar una actitud de voluntad y aprendizaje, y a medida que salgan algunas cosas notar que se sienten mucho más cómodos dentro de la cancha.
+  Como todo, el fútbol es muy subjetivo, y nadie tiene la verdad absoluta. Pero creo que en las bases del fútbol competitivo, se comoarten los mismos conceptos. Después pueden variar tácticas, estilos de juego, gustos personales, etc.
+  Trataré de 
 
 ---
 
 ## IDEA DE JUEGO
 La idea es tener un equipo equilibrado y ordenado, ya que por más deficiencias técnicas o físicas que pueda tener un equipo, si se juega ordenado se le puede "hacer partido" a cualquiera. Se buscará usar la estrategia, la táctica y las capacidades grupales e individuales de los jugadores para sacar provecho en ataque y en defensa.
 
-Es importante aclarar que no todo se hace al mismo ritmo. Y que debemos entender el posicionamiento y desarrollo del juego dentro de la cancha, como un **_"juego de espacios"_**. Donde los espacios se abren, se cierran, se crean o se cubren con los movimientos propios y del rival.
+Es importante destacar que el fútbol es un **_"juego de espacios y tiempos"_** y que debemos entender el posicionamiento y desarrollo del juego dentro de la cancha. No todo se hace al mismo ritmo, los espacios se abren, se cierran, se crean o se cubren con los movimientos propios y del rival.
 Personalmente me gustaría que el equipo sea solidario con los compañeros, tenga un arquero que brinde cierta seguridad, un central sólido que no falle, laterales que pasen al ataque, un cinco que se coma la cancha, volantes que lleguen al área rival y que hagan relevos, y un 9 que pueda resolver el sólo, alguna pelota aislada que le llegue.
 
 ### A que jugamos?
@@ -42,7 +44,7 @@ A la par de la [tenencia de pelota](#tenencia-de-pelota) buscaremos atacar hacie
 Utilizaremos un estilo de juego simple, sin complicarnos nosotros mismos, esto implica no retener la pelota más de lo necesario, dar pases a tiempo y llevar el juego hacia las zonas menos pobladas de jugadores. Tendrán permitido gambetear quienes tengan la oportunidad de disputar 1 vs.1 frente a un rival (ésto se suele dar en ataque sobre las bandas, en el centro contra un volante rival, o en algún contraataque favorable).
 
 ### Saque de Arco:
-Trataremos de salir jugando por abajo porque ésto permite estirar al equipo rival y aprovechar esos espacios. Pero NO siempre se podrá salir jugando por abajo, ya que puede q nos compliquemos sólos con pases entre los defensores o por la presión del rival. (Se irá decidiendo sobre la marcha).
+Salir jugando por abajo permite estirar al equipo rival y aprovechar esos espacios. Pero NO siempre se podrá salir jugando por abajo, ya que puede que nos compliquemos sólos con pases entre los defensores o por la presión del rival. (Se irá decidiendo sobre la marcha).
 Si sacamos largo *HAY QUE IR A DISPUTAR LA PELOTA*, y sobre todo, **ir a la segunda jugada** (esto significa acercarse a la zona donde se disputa la pelota, para capturar un rebote, un rechazo o un pase de un compañero). Antes de que se efectúe el saque largo, debemos poblar la zona con al menos 2 jugadores propios, uno que va a ser quien dispute la pelota y otro quien reciba el pase.
 
 Cuando salimos jugando por abajo, si la pelota le llega al lateral y éste recibe sobre la raya, el volante de ese lado debe cerrarse y buscar el pase por dentro y el extremo de ese lado debe abrirse y buscar el pase por fuera. En cambio si el lateral recibe más hacia el centro, deben alternarse entre el volante y el extremo para quedar uno por fuera y otro por dentro.
