@@ -2,13 +2,10 @@
 
 Me decidí por atender un poco la teoría del fútbol, inspirado por el profe. Mauro Vidal de [Play Futbol FC](http://playfutbolfc.com.ar) y un curso de fútbol que dictó durante el aislamiento total, me animé a plasmar en texto algunas ideas que rondan en mi cabeza, ya que ayudan a ordenarse, tener más claros y sintetizados los conceptos y además sirven como ayuda memoria.
 
-[//]: # (Cambios de frente: herr. muy imp. para mover al eq rival y encontrar espacios)
-[//]: # Los 4 momentos del juego.
+[//]: # Los 4 momentos del juego. Están mencionados pero hay q incorporarlos en el desarrollo
 [//]: # (BPD, BPO)
 [//]: # (Jugadas preestablecidas)
-[//]: # (Extremos: centro atrás y llegadas de volantes al área)
 [//]: # (Presión: Que hace el equipo cuando recupera la pelota)
-[//]: # (Pasar laterales al ataque si hay un 5 en equilibrio)
 [//]: # (Desmarques: eq. rival está cerrado, habilitación con juego aéreo. Puntas: pivotear y habilitar a volantes)
 [//]: # (Enganche: Capacidad de Remate. Tener Gol, Recibir libre para habilitar.)
 [//]: # (Defensivo: Siempre perfilados, cobertura, anticipo, cerrar con la pierna correcta.)
@@ -45,7 +42,10 @@ Aprovechar los [saques de arco](#saque-de-arco) propios de manera inteligente.
 ### Con la pelota:
 A la par de la [tenencia de pelota](#tenencia-de-pelota) buscaremos atacar haciendo cambios de ritmo en mitad o ¾ de cancha rival buscando profundizar con **PAREDES Y TRIANGULACIONES**, muy importante hacer **paredes y triangulaciones**, y/o abriendo la pelota hacia las bandas para profundizar por afuera. Se puede utilizar como recurso el pase largo (si es en diagonal, mejor!). Adoptar las paredes como forma de juego, ayuda mucho a tener un juego más progresivo y combinado, habiendo diferencia de la verticalidad que nos puede ofrecer el juego directo mediante pases largos.
 
-Utilizaremos un estilo de juego simple, sin complicarnos nosotros mismos, esto implica **no retener la pelota más de lo necesario**, dar pases a tiempo y llevar el juego hacia las zonas menos pobladas de jugadores. Tendrán permitido _gambetear_ quienes tengan la oportunidad de disputar 1 vs.1 frente a un rival (ésto se suele dar en ataque sobre las bandas, en el centro contra un volante rival, o en algún contraataque favorable). Tener en cuenta que sólo los jugadores con la habilidad para poder hacerlo deberán usar la gambeta, eligiendo un momento oportuno y sin abusar de la misma, ya que en caso de perder la pelota, nuestro equipo puede quedar mal parado y favorecer el contraataque rival (sobre todo si se intenta gambetear en el centro de la cancha).
+Utilizar un estilo de juego simple, sin complicarnos nosotros mismos, (esto implica **no retener la pelota más de lo necesario**), dar pases a tiempo y llevar el juego hacia las zonas menos pobladas de jugadores es la mejor opción para todo el equipo en general.
+Tendrán permitido _gambetear_ quienes tengan la habilidad para poder hacerlo y estén en la oportunidad de disputar 1 vs.1 frente a un rival (ésto se suele dar en ataque sobre las bandas, en el centro contra un volante rival, o en algún contraataque favorable), eligiendo un momento oportuno y sin abusar de la misma, ya que en caso de perder la pelota, nuestro equipo puede quedar mal parado y favorecer el contraataque rival (sobre todo si se intenta gambetear en el centro de la cancha).
+
+Otra opción muy útil es hacer cambios de frente, ésto permite encontrar espacios en la zoba opuesta de la cancha, donde está menos poblada de jugadores y podría ser una buena opción de avance, además hace moverse al equipo rival de una banda a la otra demandándole más desgante.
 
 ### Saque de Arco:
 Salir jugando por abajo permite estirar al equipo rival y aprovechar esos espacios. Pero NO siempre se podrá salir jugando por abajo, ya que puede que nos compliquemos sólos con pases entre los defensores o por la presión del rival. (Se irá decidiendo sobre la marcha).
@@ -54,18 +54,19 @@ Si sacamos largo *HAY QUE IR A DISPUTAR LA PELOTA*, y sobre todo, **ir a la segu
 Cuando salimos jugando por abajo, si la pelota le llega al lateral y éste recibe sobre la raya, el volante de ese lado debe cerrarse y buscar el pase por dentro y el extremo de ese lado debe abrirse y buscar el pase por fuera. En cambio si el lateral recibe más hacia el centro, deben alternarse entre el volante y el extremo para quedar uno por fuera y otro por dentro.
 
 ### Sin la pelota:
-Nuevamente resalto la importancia de jugar ordenados, coordinados y agrupados.
+Nuevamente resalto la importancia de jugar ordenados, coordinados y agrupados. La opción más aceptada es la de "pasar la línea de la pelota", esto implica retroceder más de lo que lo hizo la pelota y ponerse de frente a la jugada. Ésto favorece el orden y el agrupamiento y ayuda a reforzar la marca en bloque.
 
 Mi preferencia es implementar una presión intermedia y también ejercer una [_presión tras pérdida_](#presión-tras-pérdida) rápida para volver a recuperar la pelota.
 
 ---
 
 ## ATAQUE
-Es importante tener en claro el objetivo, que consiste en hacer un gol.
+Es importante no perder el objetivo, que consiste en hacer un gol.
+
 Para construír los ataques se suele diferenciar entre ataques por el centro y por las bandas, y también están los ataques directos (que no requieren de mucha construcción, sino más que nada reacción). Muchas veces al atacar por el centro la zona está muy poblada o no salen los pases con la precisión y velocidad necesaria, entonces se usa la opción de atacar por las bandas, donde suele ser más fácil profundizar o desequilibrar ya que son las zonas menos pobladas y se requiere menos precisión.
 
 ### Al atacar por las BANDAS:
-Hay que buscar hacerle llegar la pelota a los extremos en posición favorable o buscar el desdoblamiento de los volantes con los extremos, o los laterales con los volantes.
+Hay que buscar hacerle llegar la pelota a los extremos en posición favorable para avanzar y desbordar, o buscar el desdoblamiento de los volantes con los extremos, o también los laterales con los volantes.
 
 + _Los extremos_: La idea es que arranquen desde afuera hacia adentro. Cuando reciben la pelota tienen que ir para adelante, encarar al defensor, desbordarlos por fuera o por dentro, o tocar y picar al espacio, pero casi siempre deben ir para adelante y jugar el 1 vs. 1 contra el lateral rival para profundizar. También cuando se dé la posibilidad, pueden buscar el desdoblamiento del volante que pasa en velocidad facilitando el avance. Todo ésto desgasta mucho a los defensores rivales e inclina la cancha a favor.
 Al desbordar con éxito al defensor se produce un desequilibrio que se puede aprovechar:
@@ -77,11 +78,11 @@ Al desbordar con éxito al defensor se produce un desequilibrio que se puede apr
 
 + _Los puntas_: Deben cruzarse para aumentar las posibilidades de gol; el punta del lado opuesto ataca por el primer palo y el otro ataca el segundo palo o el centro del área de forma escalonada (no estén en la misma línea)
 
-+ _Los volantes_: Cuando se ataca del lado opuesto a su posición, deben cruzarse en diagonal para recibir detrás del/de los 5 rival/es y así quedar mano a mano contra los centrales generando superioridad numérica cerca del área rival.
++ _Los volantes_: Cuando se ataca del lado opuesto a su posición, deben cruzarse en diagonal para recibir detrás del/de los 5 rival/es y así quedar mano a mano contra los centrales generando superioridad numérica cerca del área rival o incluso llegar como delanteros en caso que el ataque prospere.
 Si se ataca por su lado puede:
   + Si tiene la pelota:
     - Buscar al extremo.
-    - Buscar a que un punta le pique en diagonal a la espalda de los defensores rivales.
+    - Buscar a que un punta haga el movimiento en diagonal a la espalda de los defensores rivales.
     - Buscar una pared.
     - Buscar a que pase el lateral (desdoblamiento). Y estar atento al relevo.
   + Sin la pelota:
@@ -93,11 +94,13 @@ A la hora de volver, deben hacerlo por dentro, para cubrir la posibilidad de pas
 > Al desbordar y tirar el centro atrás, el que viene a la carrera a rematar debe pegarle al arco **"a colocar"**, ya que en esas jugadas tiende a elevarse mucho la pelota y sino terminan todas en el alambrado o en la tribuna. En este tipo de jugadas los arqueros suelen tener la visión tapada y quedar a contrapierna de la jugada, ésto aumenta la efectividad del tiro a colocar.
 
 ### Al atacar por el CENTRO:
-Hay que buscar **hacer paredes, triangulaciones o pases rápidos a 1 o 2 toques** cambiando de ritmo y triangulando para avanzar entre los rivales, porque hay mucha gente en esa zona y la mayoría dedicados a marcar. Para poder progresar por esta zona es importante ubicarse en la cancha en "distintas líneas de profundidad" para obtener profundidad con los pases e intentar aprovechar los triangulos que se forman entre nuestros jugadores.
+Hay que buscar **hacer paredes, triangulaciones o pases rápidos a 1 o 2 toques** cambiando de ritmo y triangulando para avanzar entre los rivales, porque hay mucha gente en esa zona y la mayoría dedicados a marcar. Para poder progresar por esta zona es importante ubicarse en la cancha en "distintas líneas de profundidad" para obtener profundidad con cada pase e intentar aprovechar los triangulos que se forman entre nuestros jugadores.
 
 [![Triangular](/imagenes/los-triangulos-en-el-futbol.png)](/imagenes/los-triangulos-en-el-futbol.png)
 
 También hay desventajas en el juego de triangulaciones, ya que se arriesga mucho más en caso de que alguno de los pases falle y se pierda la tenencia de la pelota.
+
+Tirar un centro a los delanteros, desde el centro de la cancha y en forma recta a la defensa, generalmente es desperdiciar el ataque, ya que los defensores rivales están bien afirmados y de frente, haciendoles fácil la tarea de rechazar la pelota, y los delanteros nuestros tienen el difícil trabajo de disputar esa pelota de espaldas al arco.
 
 - _Los puntas_: Deben hacer diagonales hacia adelante al espacio, generando la opción de un pase y cuidando el offside, para ésto deberán hacer un desmarque dando unos pasos hacia abajo antes de buscar una diagonal. Si descienden a recibir no deben hacerlo en línea recta (vertical) sino en una línea diagonal ya que ésto les permite recibir perfilados y con ventaja posicional, o aguantar la pelota para descargar con un compañero e ir a buscar una pared.
 
@@ -109,7 +112,7 @@ También hay desventajas en el juego de triangulaciones, ya que se arriesga much
 ### Juego entre líneas:
 [![Como triangula y juega entre líneas Kevin De Bryune](https://img.youtube.com/vi/j9QzPIvX4jw/sddefault.jpg)](https://youtu.be/j9QzPIvX4jw)
 
-Cuando se recibe de espaldas cerca del arco rival, se debe priorizar dar un pase hacia atrás para algún compañero que venga de frente para rematar, si esa opción no es posible, se puede buscar darse vuelta para rematar, será necesario hacer un buen uso del cuerpo para proteger la pelota y en todo caso provocar una falta del rival.
+Cuando se recibe de espaldas cerca del arco rival, se debe priorizar dar un pase hacia atrás para algún compañero que venga de frente para rematar, si esa opción no es posible, se puede buscar darse vuelta para rematar uno mismo, será necesario hacer un buen uso del cuerpo para proteger la pelota y en todo caso provocar una falta del rival.
 
 > Hay un viejo dicho que dice: **"Dentro del área, siempre hay tiempo"**. Nos refiere a no apurarnos para resolver dentro del área rival, ya que es el rival el que tiene el apuro por sacar la pelota para que no le hagan el gol.
 
@@ -124,8 +127,8 @@ La jugada se definirá por indicación del jugador 1 con una palabra que deberá
 Una jugada muy simple de ataque y que puede generar mucho peligro es cuando un lateral o un volante da un pase hacia atrás (se apoya) en un volante central, y éste de primera mete un pase curvo detrás de la línea de defensores para que pique un punta.
 
 ### Jugada de saque lateral:
-Cuando tenemos un lateral cerca del área rival, una buena opción es lanzar un centro al área mediante un saque largo de lateral, un jugador nuestro se posiciona en el vertice del área chica o a la altura del primer palo (dependiendo del tamaño de la cancha y capacidad de saque largo del lanzador) y un segundo jugador se posiciona detrás del primero, aprox. en el punto de penal para aprovechar un pase de cabeza por parte del primero. Se hace el lateral largo para que el primero le peine la pelota al segundo quien debe "aparecer" en la zoba donde caiga la pelota para llegar antes que los defensores.
-Otra opción, clásica, es que uno se acerque al que saca el lateral y le devuelva la pelota para que el mismo que saca el lateral haga un centro "de primera" con un poco de "rosca" para aprovechar que los defensores rivales están parados y alguno puede estar desatento.
+Cuando tenemos un lateral cerca del área rival, una buena opción es lanzar un centro al área mediante un saque largo de lateral, un jugador nuestro se posiciona en el vertice del área chica o a la altura del primer palo (dependiendo del tamaño de la cancha y capacidad de saque largo del lanzador) y un segundo jugador se posiciona detrás del primero, aprox. en el punto de penal para aprovechar un pase de cabeza por parte del primero. Se hace el lateral largo para que el primero le peine la pelota al segundo quien debe "aparecer" en la zona donde caiga la pelota para llegar antes que los defensores.
+Otra opción, clásica, es que uno se acerque al que saca el lateral y le devuelva la pelota para que el mismo que saca el lateral haga un centro "de primera" con un poco de "rosca" (curva) para aprovechar que los defensores rivales están parados y alguno puede estar desatento o despegado de su marca.
 Personalmente prefiero que los laterales cerca del área rival los haga el volante de ese lado (para cuidar la defensa y estar mejor parados frente a un contraataque).
 
 > `Todos estos conceptos no van a salir bien las primeras veces, pero hay que intentarlo. No importa si sale mal la ejecución, pero hay que intentar aplicar el concepto y la idea de juego porque estoy convencido que de esa forma se logran buenos resultados.`
@@ -135,7 +138,7 @@ Personalmente prefiero que los laterales cerca del área rival los haga el volan
 ---
 
 ## DEFENSA
-Para cerrarle los espacios al rival, el equipo debe bascular para el lado en que se encuentra la pelota. Ésto significa acercarse a la zona donde está la pelota, para cerrar los espacios y generar superioridad numérica.
+Para cerrarle los espacios al rival, el equipo debe bascular para el lado en que se encuentra la pelota. Ésto significa acercarse a la zona donde va la pelota, para cerrar los espacios y generar superioridad numérica en defensa.
 
 [![Basculación](https://img.youtube.com/vi/yEmI6Bm3-lk/sddefault.jpg)](https://www.youtube.com/watch?v=yEmI6Bm3-lk)
 
@@ -143,7 +146,7 @@ Todas las líneas del equipo deben marcar, pero cada línea lo deberá hacer de 
 
 - _Delanteros_: La forma de marcar debe ser cerrando líneas de pase, sobre todo por el centro. Porque los pases que adquieren profundidad por el centro (pases verticales) generan peligro y rompen la presión. Cuando el rival mueva la pelota entre sus defensores los delanteros deberán marcar "barriendo" las líneas de pase por el centro, formando una trayectoria con forma de "abanico".
 
-- _Volantes_: Toman marca en zona y a cierta distancia del rival, no al hombre.
+- _Volantes_: Toman marca en zona y a cierta distancia del rival, no al hombre. Suele pasar que en cierto momento el volante tenga que cubrir 2 marcas, por ej. al lateral y al volante de su lado. Es importante que cuando ésto sucede, el volante se ubique en una posición intermedia de manera que pueda llegar a marcar a cualquiera de los 2 que le llegue la pelota, y tapar la línea de pase entre esas 2 marcas.
   + _Volantes centrales (5)_: Además de ocuparse del mediocampo, deberán vigilar atentamente su espalda para mitigar posibles pases del rival a esa peligrosa zona.
 
 - _Defensores_: También marcan en zona, pero por momentos toman marca al hombre de cerca y deben asegurarse de que tengamos superioridad numérica. Individualmente, cuanto más cerca del arco propio estén, más cerca deberán tomar la marca. Colectivanente deben hacer de cuenta que son una _"formación de batalla romana"_ **manejando los espacios** entre los que defienden.
@@ -169,19 +172,21 @@ Lo ideal es hacer **_despejes orientados_**, esto consiste en ubicar 1 o 2 jugad
 ## TENENCIA DE PELOTA
 La tenencia además de posesión, da la posibilidad de descanzar con la pelota mientras el rival se cansa basculando y marcándonos. Para que la tenencia sea práctica deberemos hacer circular la pelota buscando los momentos adecuados para cambiar de ritmo y atacar o encontrar un pase vertical que nos permita generar un ataque. Lo ideal será buscar un buen equilibrio entre tenencia práctica y ataque, considerando el cansancio general del equipo o el nivel de ahogo.
 
-- _Volantes centrales (5)_: Es un puesto complejo y de los más importantes para un equipo. El juego pasará mayormente por ellos y serán los encargados de distribuir la pelota. Para ésto deben jugar simple minimizando errores y rotar el juego cuando una zona se encuentra muy cargada o poblada. La rotación del juego rápida aprovecha los espacios que quedan libres cuando el rival bascula y permite profundizar por esos espacios en el tiempo en que el rival tiene que volver a bascular hacia el lado en que se rotó la pelota.
-Responsabilidades:
-  1. Distribuir el juego hacia los lados de la cancha, sobre todo a los laterales o volantes.
-  2. Encargarse de la marca y los espacios en mitad de cancha y colaborar delante de los defensores.
-  3. Ordenar al equipo. Ya que su posición dentro de la cancha permite manejar una perspectiva privilegiada para observar el campo y detectar huecos en la formación del equipo o compañeros desordenados.
+- _Volantes centrales (5)_: Es un puesto complejo y de los más       importantes para un equipo. El juego pasará mayormente por ellos y serán los encargados de distribuir la pelota. Para ésto deben jugar simple minimizando errores y rotar el juego cuando una zona se encuentra muy cargada o poblada. La rotación del juego rápida aprovecha los espacios que quedan libres cuando el rival bascula y permite profundizar por esos espacios en el tiempo en que el rival tiene que volver a bascular hacia el lado en que se rotó la pelota.
+  Responsabilidades:
+    1. Distribuir el juego hacia los lados de la cancha, sobre todo a los laterales o volantes.
+    2. Encargarse de la marca y los espacios en mitad de cancha y colaborar delante de los defensores.
+    3. Ordenar al equipo. Ya que su posición dentro de la cancha permite manejar una perspectiva privilegiada para observar el campo y detectar huecos en la formación del equipo o compañeros desordenados.
     4. Ser voz de mando y determinar los [momentos de presión](#momentos-de-presión).
 
-  Algunas veces para salir jugando desde el arco, se acude a que baje el 5 entre los centrales y se acerque a la zona del área propia (para ésto los defensores deberán abrirse y ser opción de pase). Es importante que el 5 cuando reciba se perfile bien, de frente a la cancha, para aprovechar ese movimiento para avanzar o armar juego. Las opciones de pase inmediatas que tiene serán los laterales o los volantes.
-  Una característica clave del volante central es que debe estar mirando a su alrededor todo el tiempo, ésto le da la posibilidad de ubicarse mejor para recibir la pelota y la capacidad de observar la ubicación de los contrarios y los compañeros (por ésto también se vuelve clave para ser voz de mando a la hora de ordenar al equipo o indicar cuando presionar, etc).
+  Una característica clave del volante central es que debe estar mirando a su alrededor todo el tiempo, ésto le da la posibilidad de ubicarse mejor para recibir la pelota y la capacidad de observar la ubicación de los contrarios y los compañeros (por ésto también se vuelve clave para ser voz de mando a la hora de ordenar al equipo o indicar cuando presionar, etc). Es importante que el 5 cuando reciba se perfile bien, de frente a la cancha, para aprovechar ese movimiento para armar juego. Las opciones de pase inmediatas que tiene serán los laterales o los volantes.
   
   En el caso de jugar con 2 volantes centrales, deberán ubicarse en diferentes líneas de profundidad, y no deben quedar en línea horizontal a la cancha, ya que favorece la presion del rival y los pases filtrados.
 
-- _Laterales_: Al recibir la pelota deben hacerlo perfilados con la cola hacia la raya y recibiendo la pelota con la cancha de frente, ésto permite avanzar o armar juego en menos tiempo, facilitando el avance. Cuando reciben luego de una rotación del juego, es preferible (en lo posible) ir hacia adelante y no volver a jugar con los centrales, porque es probable que la pelota viaje más rápido de un lado a otro de la cancha que los rivales, logrando así romper la presión rival antes de que basculen.
+  Algunas veces para salir jugando desde el arco, se acude a que baje un 5 entre los centrales y se acerque a la zona del área propia (para ésto los centrales deberán abrirse y los laterales ubicarse también bien abiertos sobre la raya y casi a la altura de la mitad de cancha, ésto para generar espacios y ser opción de pase).
+
+- _Laterales_: Al recibir la pelota deben hacerlo perfilados con la cola hacia la raya y recibiendo la pelota con la cancha de frente, ésto permite avanzar o armar juego en menos tiempo, facilitando el avance. La opción simple y por defecto que tienen los laterales incluso en caso de no tener pase, es hacer un pase largo por la raya, y ésta será la opción más segura en lugar de dar un pase perdido hacia adentro o hacia atrás.
+Cuando reciben luego de una rotación del juego, es preferible (en lo posible) ir hacia adelante y no volver a jugar con los centrales, porque es probable que la pelota viaje más rápido de un lado a otro de la cancha que los rivales, logrando así romper la presión rival antes de que basculen.
 
 - _Volantes y/o Enganche_: Si reciben de espaldas y tienen la marca encima, cuando estamos haciendo tenencia o haciendo circular la pelota, es mucho más seguro descargar hacia atrás (apoyarse) con un compañero e inmediatamente hacer un movimiento para desmarcarse y recibir perfilado hacia el arco rival.
 
