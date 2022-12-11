@@ -2,7 +2,7 @@
 
 Me decidí por atender un poco la teoría del fútbol, inspirado por el profe. Mauro Vidal de [Play Futbol FC](http://playfutbolfc.com.ar) y un curso de fútbol que dictó durante el aislamiento total, me animé a plasmar en texto algunas ideas que rondan en mi cabeza, ya que ayudan a ordenarse, tener más claros y sintetizados los conceptos y además sirven como ayuda memoria.
 
-[//]: # Los 4 momentos del juego. Están mencionados pero hay q incorporarlos en el desarrollo=
+[//]: # Los 4 momentos del juego. Están mencionados pero hay q incorporarlos en el desarrollo
 [//]: # BPD, BPO. desarrollar
 [//]: # Jugadas preestablecidas. Hacer Intro
 [//]: # (Presión: Que hace el equipo cuando recupera la pelota)
@@ -137,7 +137,14 @@ Cuando tenemos un lateral cerca del área rival, una buena opción es lanzar un 
 Otra opción, clásica, es que uno se acerque al que saca el lateral y le devuelva la pelota para que el mismo que saca el lateral haga un centro "de primera" con un poco de "rosca" (curva) para aprovechar que los defensores rivales están parados y alguno puede estar desatento o despegado de su marca.
 Personalmente prefiero que los laterales cerca del área rival los haga el volante de ese lado (para cuidar la defensa y estar mejor parados frente a un contraataque).
 
-> `Todos estos conceptos no van a salir bien las primeras veces, pero hay que intentarlo. No importa si sale mal la ejecución, pero hay que intentar aplicar el concepto y la idea de juego porque estoy convencido que de esa forma se logran buenos resultados.`
+#### Jugada para romper una defensa sólida:
+Una jugada para los delanteros. Es clave ejecutar un movimiento inwsperado. Por ej.: Al recibir de espaldas si están muy marcados pueden dejar pasar la pelota por entremedio de los pies, o darle un pase a un compañero de taco o de pisadita hacia atrás.
+También se puede hacer un buen amague de desmarque, ya sea con o sin pelota. Uno bueno al recibir de espaldas es parar por completo la pelota (si es posible con la suela) y después con la marca encima, hacer un amague que sale para un lado y termina saliendo para el otro lado.
+
+Se pueden tomar buenas ideas de esto del Futsal.
+
+
+> `Todos estos conceptos probablemente no van a salir bien las primeras veces, pero hay que intentarlo. No importa si sale mal la ejecución, pero hay que intentar aplicar el concepto y la idea de juego porque estoy convencido que de esa forma se logran buenos resultados.`
 
 [![Video Explicativo](https://img.youtube.com/vi/MhOd9V_Vxdc/sddefault.jpg)](https://youtu.be/MhOd9V_Vxdc)
 
